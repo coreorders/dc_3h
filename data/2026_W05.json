@@ -4,8 +4,106 @@
   "week": "2026_W05",
   "week_start": "2026-01-26",
   "week_end": "2026-02-01",
-  "last_updated": "2026-01-31T19:02:28+09:00",
+  "last_updated": "2026-01-31T19:54:04+09:00",
   "posts": [
+    {
+      "post_id": "951263",
+      "title": "기억을 무작정 잘 한다고 좋은것도 아니구나",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-01",
+      "time": "04:51:59",
+      "datetime": "2026-02-01T04:51:59",
+      "views": 16,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=951263&page=1"
+    },
+    {
+      "post_id": "951262",
+      "title": "몰트봇 ㅈㄴ게 어렵네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-01",
+      "time": "04:50:20",
+      "datetime": "2026-02-01T04:50:20",
+      "views": 24,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=951262&page=1"
+    },
+    {
+      "post_id": "951261",
+      "title": "오픈클로 너무 응답이 느린데 원래이러나",
+      "author": "ㅇㅇ",
+      "author_ip": "14.52",
+      "author_type": "semi_anonymous",
+      "date": "2026-02-01",
+      "time": "04:46:55",
+      "datetime": "2026-02-01T04:46:55",
+      "views": 31,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=951261&page=1"
+    },
+    {
+      "post_id": "951260",
+      "title": "AIS 연동 진짜로 해준다는 오피셜임?",
+      "author": "올스",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-01",
+      "time": "04:46:13",
+      "datetime": "2026-02-01T04:46:13",
+      "views": 36,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=951260&page=1"
+    },
+    {
+      "post_id": "951259",
+      "title": "ais 40만 토큰도 문제없이 대화하네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-01",
+      "time": "04:40:06",
+      "datetime": "2026-02-01T04:40:06",
+      "views": 81,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=951259&page=1"
+    },
+    {
+      "post_id": "951258",
+      "title": "제미나이 가족계정 막힘? 구독 강제 해지됨",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-01",
+      "time": "04:39:31",
+      "datetime": "2026-02-01T04:39:31",
+      "views": 71,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=951258&page=1"
+    },
+    {
+      "post_id": "951255",
+      "title": "gtp보다 제미나이가 더 좋은거 같애",
+      "author": "씨그램",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-01",
+      "time": "04:12:14",
+      "datetime": "2026-02-01T04:12:14",
+      "views": 155,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=951255&page=1"
+    },
     {
       "post_id": "951254",
       "title": "그록 영상 생성 한국어도 말하네",
@@ -84651,5 +84749,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=944385&page=105"
     }
   ],
-  "total_posts": 6046
+  "total_posts": 6053
 }
