@@ -221,6 +221,16 @@ def extract_post_data(row, today):
         return None
 
 
+def load_all_existing_ids():
+    """모든 주차의 수집된 게시글 ID 집합 반환"""
+    all_ids = set()
+    for file_path in DATA_DIR.glob("*.json"):
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            for post in data.get('posts', []):
+                all_ids.add(post['post_id'])
+    return all_ids
+
 def crawl_posts():
     """게시글 크롤링"""
     print("=" * 60)
@@ -232,13 +242,18 @@ def crawl_posts():
     today = datetime.now()
     cutoff_date = today - timedelta(days=DAYS_LIMIT)
     
+    # 기존에 수집된 모든 ID 로드
+    existing_ids = load_all_existing_ids()
+    print(f"📂 기존 수집된 게시글: {len(existing_ids)}개")
+    
     all_posts = []
     page = 1
     stop_crawling = False
+    new_posts_count = 0
     
     while not stop_crawling:
         url = f"{BASE_URL}?id={GALL_ID}&page={page}"
-        print(f"\r📄 페이지 {page} 처리 중... (수집: {len(all_posts)}개)", end='', flush=True)
+        print(f"\r📄 페이지 {page} 처리 중... (신규 수집: {new_posts_count}개)", end='', flush=True)
         
         try:
             response = requests.get(url, headers=HEADERS)
@@ -260,13 +275,23 @@ def crawl_posts():
             if not post_data:
                 continue
             
+            post_id = post_data['post_id']
             post_datetime = post_data['_datetime_obj']
             
+            # 1. 이미 수집된 게시글이면 중단 (가장 중요!)
+            if post_id in existing_ids:
+                stop_crawling = True
+                print(f"\n✋ 기존 수집된 게시글 발견 (ID: {post_id}) → 크롤링 중단")
+                break
+            
+            # 2. 날짜 제한 체크
             if post_datetime >= cutoff_date:
                 all_posts.append(post_data)
+                new_posts_count += 1
             else:
                 # 오래된 게시글 발견 → 크롤링 중단
                 stop_crawling = True
+                print(f"\n📅 수집 기간 초과 ({post_datetime}) → 크롤링 중단")
                 break
         
         if stop_crawling:
@@ -275,7 +300,7 @@ def crawl_posts():
         page += 1
         time.sleep(0.5)  # 서버 부하 방지
     
-    print(f"\n✅ 크롤링 완료! 총 {len(all_posts)}개 수집")
+    print(f"\n✅ 크롤링 완료! 신규 {len(all_posts)}개 수집")
     
     # _datetime_obj 필드 제거
     for post in all_posts:
