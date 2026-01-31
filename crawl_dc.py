@@ -250,6 +250,7 @@ def crawl_posts():
     page = 1
     stop_crawling = False
     new_posts_count = 0
+    consecutive_dup_count = 0  # 연속 중복 카운트
     
     while not stop_crawling:
         url = f"{BASE_URL}?id={GALL_ID}&page={page}"
@@ -278,11 +279,16 @@ def crawl_posts():
             post_id = post_data['post_id']
             post_datetime = post_data['_datetime_obj']
             
-            # 1. 이미 수집된 게시글이면 중단 (가장 중요!)
+            # 1. 중복 체크 (연속 5회 이상이면 중단)
             if post_id in existing_ids:
-                stop_crawling = True
-                print(f"\n✋ 기존 수집된 게시글 발견 (ID: {post_id}) → 크롤링 중단")
-                break
+                consecutive_dup_count += 1
+                if consecutive_dup_count >= 5:
+                    stop_crawling = True
+                    print(f"\n✋ 연속으로 5개의 중복 게시글 발견 (마지막 ID: {post_id}) → 크롤링 중단")
+                    break
+                continue  # 이 글은 건너뛰고 다음 글 확인
+            else:
+                consecutive_dup_count = 0  # 신규 글이 나오면 카운트 리셋
             
             # 2. 날짜 제한 체크
             if post_datetime >= cutoff_date:
