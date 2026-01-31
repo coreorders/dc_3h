@@ -1,0 +1,36 @@
+name: DC Crawler Auto Run
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 6시간마다 실행 (00:00, 06:00, 12:00, 18:00 UTC)
+  workflow_dispatch:        # 수동 실행 버튼 활성화
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Run crawler
+        run: |
+          python crawl_dc.py
+        working-directory: ./
+          
+      - name: Commit and push data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*.json
+          git diff --staged --quiet || git commit -m "🤖 Auto-crawl: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
