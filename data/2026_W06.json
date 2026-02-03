@@ -4,8 +4,64 @@
   "week": "2026_W06",
   "week_start": "2026-02-02",
   "week_end": "2026-02-08",
-  "last_updated": "2026-02-03T19:34:52+09:00",
+  "last_updated": "2026-02-03T20:18:03+09:00",
   "posts": [
+    {
+      "post_id": "954979",
+      "title": "아 몰트봇 OAuth으로하면 그냥 구독제로 연결이 가능하구나",
+      "author": "특갈",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-04",
+      "time": "05:14:29",
+      "datetime": "2026-02-04T05:14:29",
+      "views": 22,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=954979&page=1"
+    },
+    {
+      "post_id": "954978",
+      "title": "dgx spark 로 120b모델로 바이브코딩하는데",
+      "author": "코린이임니다",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-04",
+      "time": "05:09:41",
+      "datetime": "2026-02-04T05:09:41",
+      "views": 33,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=954978&page=1"
+    },
+    {
+      "post_id": "954977",
+      "title": "겨울이다...",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-04",
+      "time": "05:03:50",
+      "datetime": "2026-02-04T05:03:50",
+      "views": 55,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=954977&page=1"
+    },
+    {
+      "post_id": "954976",
+      "title": "진짜로 장고끝에 악수를 두는게 맞았네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-04",
+      "time": "04:41:31",
+      "datetime": "2026-02-04T04:41:31",
+      "views": 205,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=954976&page=1"
+    },
     {
       "post_id": "954975",
       "title": "지피티 5.2 띵킹 Juice 값이 바뀌었다\"카더라\"",
@@ -36001,5 +36057,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=952223&page=2"
     }
   ],
-  "total_posts": 2571
+  "total_posts": 2575
 }
