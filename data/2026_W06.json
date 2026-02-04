@@ -4,8 +4,92 @@
   "week": "2026_W06",
   "week_start": "2026-02-02",
   "week_end": "2026-02-08",
-  "last_updated": "2026-02-04T19:28:26+09:00",
+  "last_updated": "2026-02-04T20:04:35+09:00",
   "posts": [
+    {
+      "post_id": "956278",
+      "title": "아마존이랑 오픈ai랑 수백억달러 투자 협상중",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-05",
+      "time": "04:58:23",
+      "datetime": "2026-02-05T04:58:23",
+      "views": 39,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=956278&page=1"
+    },
+    {
+      "post_id": "956277",
+      "title": "오픈ai 점유율은 약간 그거임",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-05",
+      "time": "04:57:27",
+      "datetime": "2026-02-05T04:57:27",
+      "views": 51,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=956277&page=1"
+    },
+    {
+      "post_id": "956276",
+      "title": "제미나이는 이용자가 늘 수밖에 없는게",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-05",
+      "time": "04:53:48",
+      "datetime": "2026-02-05T04:53:48",
+      "views": 55,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=956276&page=1"
+    },
+    {
+      "post_id": "956275",
+      "title": "형들 GPT 4o가 잼민이 처럼",
+      "author": "쿠쿠용",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-05",
+      "time": "04:46:34",
+      "datetime": "2026-02-05T04:46:34",
+      "views": 80,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=956275&page=1"
+    },
+    {
+      "post_id": "956274",
+      "title": "왜 구글사용자만 존나늘었음?",
+      "author": "룸전드",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-05",
+      "time": "04:41:40",
+      "datetime": "2026-02-05T04:41:40",
+      "views": 173,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=956274&page=1"
+    },
+    {
+      "post_id": "956273",
+      "title": "캬 이제 클링3로",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-05",
+      "time": "04:32:03",
+      "datetime": "2026-02-05T04:32:03",
+      "views": 112,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=956273&page=1"
+    },
     {
       "post_id": "956272",
       "title": "오푸스로 1시간이면 코딩할거 코덱스로 5시간째임",
@@ -53179,5 +53263,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=952223&page=2"
     }
   ],
-  "total_posts": 3798
+  "total_posts": 3804
 }
