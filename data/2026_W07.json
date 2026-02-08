@@ -1,0 +1,39 @@
+{
+  "gallery_id": "thesingularity",
+  "gallery_name": "특이점이 온다",
+  "week": "2026_W07",
+  "week_start": "2026-02-09",
+  "week_end": "2026-02-15",
+  "last_updated": "2026-02-08T15:00:58+09:00",
+  "posts": [
+    {
+      "post_id": "961945",
+      "title": "무선전력전송 이라는 기술을 앎?",
+      "author": "GEMINI",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "00:00:42",
+      "datetime": "2026-02-09T00:00:42",
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=961945&page=1"
+    },
+    {
+      "post_id": "961944",
+      "title": "그냥 AI 쓰면 쓸수록 도메인 지식이 다인게 느껴짐...",
+      "author": "ㅇㅇ",
+      "author_ip": "211.63",
+      "author_type": "semi_anonymous",
+      "date": "2026-02-09",
+      "time": "00:00:31",
+      "datetime": "2026-02-09T00:00:31",
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=961944&page=1"
+    }
+  ],
+  "total_posts": 2
+}
