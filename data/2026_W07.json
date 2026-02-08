@@ -4,8 +4,120 @@
   "week": "2026_W07",
   "week_start": "2026-02-09",
   "week_end": "2026-02-15",
-  "last_updated": "2026-02-08T21:59:29+09:00",
+  "last_updated": "2026-02-08T23:03:37+09:00",
   "posts": [
+    {
+      "post_id": "962181",
+      "title": "오푸스 4.6 Fast 가격 6배인건 진짜 단순히 속도 올린거라 그렇대",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "07:49:19",
+      "datetime": "2026-02-09T07:49:19",
+      "views": 169,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=962181&page=1"
+    },
+    {
+      "post_id": "962180",
+      "title": "왜 특이점 디스토피아충이 생기는지 문득 떠올랐다",
+      "author": "ㅇㄷㄴ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "07:39:36",
+      "datetime": "2026-02-09T07:39:36",
+      "views": 141,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=962180&page=1"
+    },
+    {
+      "post_id": "962179",
+      "title": "잠은 소중한건가",
+      "author": "Year_of_agi",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "07:34:13",
+      "datetime": "2026-02-09T07:34:13",
+      "views": 141,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=962179&page=1"
+    },
+    {
+      "post_id": "962178",
+      "title": "특이점이 왔다 갤러리입니다.",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "07:30:12",
+      "datetime": "2026-02-09T07:30:12",
+      "views": 126,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=962178&page=1"
+    },
+    {
+      "post_id": "962177",
+      "title": "코덱스앱 윈도로 나오긴하려나",
+      "author": "댕댕충",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "07:22:53",
+      "datetime": "2026-02-09T07:22:53",
+      "views": 180,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=962177&page=1"
+    },
+    {
+      "post_id": "962176",
+      "title": "삼성전자, 설 연휴 이후 세계 최초 HBM4 양산 시작",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "07:09:10",
+      "datetime": "2026-02-09T07:09:10",
+      "views": 320,
+      "likes": 3,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=962176&page=1"
+    },
+    {
+      "post_id": "962175",
+      "title": "머슴닷컴 -> 솔직히 존나 재밌음...",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "07:03:42",
+      "datetime": "2026-02-09T07:03:42",
+      "views": 285,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=962175&page=1"
+    },
+    {
+      "post_id": "962174",
+      "title": "두시간만 있으면 오픈클로를 쓸 수 있어요",
+      "author": "엑친콰치",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-09",
+      "time": "07:00:27",
+      "datetime": "2026-02-09T07:00:27",
+      "views": 267,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=962174&page=1"
+    },
     {
       "post_id": "962173",
       "title": "기술자와 일반인의 기술 인식 차이",
@@ -3003,5 +3115,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=961944&page=1"
     }
   ],
-  "total_posts": 214
+  "total_posts": 222
 }
