@@ -1,0 +1,53 @@
+{
+  "gallery_id": "thesingularity",
+  "gallery_name": "특이점이 온다",
+  "week": "2026_W08",
+  "week_start": "2026-02-16",
+  "week_end": "2026-02-22",
+  "last_updated": "2026-02-15T15:01:03+09:00",
+  "posts": [
+    {
+      "post_id": "976881",
+      "title": "자는동안 오픈클로한테 코딩",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-16",
+      "time": "00:00:45",
+      "datetime": "2026-02-16T00:00:45",
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=976881&page=1"
+    },
+    {
+      "post_id": "976880",
+      "title": "UBI 믿고 쉬는건 위험해 보임",
+      "author": "ㅇㅇ",
+      "author_ip": "182.221",
+      "author_type": "semi_anonymous",
+      "date": "2026-02-16",
+      "time": "00:00:44",
+      "datetime": "2026-02-16T00:00:44",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=976880&page=1"
+    },
+    {
+      "post_id": "976879",
+      "title": "의학 혁명 진짜 언제 오냐고..",
+      "author": "이세이미야케",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-16",
+      "time": "00:00:26",
+      "datetime": "2026-02-16T00:00:26",
+      "views": 9,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=976879&page=1"
+    }
+  ],
+  "total_posts": 3
+}
