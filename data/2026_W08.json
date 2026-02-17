@@ -4,8 +4,120 @@
   "week": "2026_W08",
   "week_start": "2026-02-16",
   "week_end": "2026-02-22",
-  "last_updated": "2026-02-17T20:19:16+09:00",
+  "last_updated": "2026-02-17T21:19:29+09:00",
   "posts": [
+    {
+      "post_id": "980043",
+      "title": "특쌤들은 Perplexity 안씀?",
+      "author": "Junn",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-18",
+      "time": "06:18:24",
+      "datetime": "2026-02-18T06:18:24",
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=980043&page=1"
+    },
+    {
+      "post_id": "980042",
+      "title": "소넷 롱컨텍 능력 많이 좋아진거같아",
+      "author": "ㅇㅇ",
+      "author_ip": "175.215",
+      "author_type": "semi_anonymous",
+      "date": "2026-02-18",
+      "time": "06:15:59",
+      "datetime": "2026-02-18T06:15:59",
+      "views": 22,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=980042&page=1"
+    },
+    {
+      "post_id": "980041",
+      "title": "5.3언제나오냐고 씨발련아",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-18",
+      "time": "06:13:29",
+      "datetime": "2026-02-18T06:13:29",
+      "views": 30,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=980041&page=1"
+    },
+    {
+      "post_id": "980039",
+      "title": "5가지 지표로 분석한 기술적 특이점은, 화요일.",
+      "author": "ㅇㅇ",
+      "author_ip": "220.79",
+      "author_type": "semi_anonymous",
+      "date": "2026-02-18",
+      "time": "05:59:35",
+      "datetime": "2026-02-18T05:59:35",
+      "views": 76,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=980039&page=1"
+    },
+    {
+      "post_id": "980038",
+      "title": "제미나이 공웹 개같은거",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-18",
+      "time": "05:30:55",
+      "datetime": "2026-02-18T05:30:55",
+      "views": 136,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=980038&page=1"
+    },
+    {
+      "post_id": "980037",
+      "title": "노베이스 바이브코딩4일차",
+      "author": "isui",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-02-18",
+      "time": "05:25:33",
+      "datetime": "2026-02-18T05:25:33",
+      "views": 226,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=980037&page=1"
+    },
+    {
+      "post_id": "980036",
+      "title": "ARC AGI측에서 소넷 추론 관련해서 공식 문의했대",
+      "author": "ㅇㅇ",
+      "author_ip": "175.215",
+      "author_type": "semi_anonymous",
+      "date": "2026-02-18",
+      "time": "05:24:22",
+      "datetime": "2026-02-18T05:24:22",
+      "views": 154,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=980036&page=1"
+    },
+    {
+      "post_id": "980035",
+      "title": "중국대만 회사 진짜 구독제 좆같이 운영한다",
+      "author": "ㅇㅇ",
+      "author_ip": "220.70",
+      "author_type": "semi_anonymous",
+      "date": "2026-02-18",
+      "time": "05:21:49",
+      "datetime": "2026-02-18T05:21:49",
+      "views": 156,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=980035&page=1"
+    },
     {
       "post_id": "980034",
       "title": "소넷 4.6 트레이닝 데이터 컷오프가 인상적이네",
@@ -40943,5 +41055,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=976879&page=1"
     }
   ],
-  "total_posts": 2924
+  "total_posts": 2932
 }
