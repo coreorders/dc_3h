@@ -4,8 +4,78 @@
   "week": "2026_W09",
   "week_start": "2026-02-23",
   "week_end": "2026-03-01",
-  "last_updated": "2026-02-28T20:57:03+09:00",
+  "last_updated": "2026-02-28T21:54:14+09:00",
   "posts": [
+    {
+      "post_id": "1008437",
+      "title": "코덱스 멀티에이전트 쉽게 세팅하는 툴 만드는중",
+      "author": "방구쟁이조르즈",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-01",
+      "time": "06:15:36",
+      "datetime": "2026-03-01T06:15:36",
+      "views": 134,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1008437&page=1"
+    },
+    {
+      "post_id": "1008436",
+      "title": "ai 써서 정밀 타격하는게 좆되나보네",
+      "author": "김칠이",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-01",
+      "time": "06:15:35",
+      "datetime": "2026-03-01T06:15:35",
+      "views": 167,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1008436&page=1"
+    },
+    {
+      "post_id": "1008435",
+      "title": "야설은 그록인 이유",
+      "author": "ㅇㅇ",
+      "author_ip": "167.17",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-01",
+      "time": "06:11:23",
+      "datetime": "2026-03-01T06:11:23",
+      "views": 207,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1008435&page=1"
+    },
+    {
+      "post_id": "1008434",
+      "title": "지피티 제미나이 존나 웃기네 ㅋㅋ",
+      "author": "ㅇㅇ",
+      "author_ip": "112.184",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-01",
+      "time": "06:10:00",
+      "datetime": "2026-03-01T06:10:00",
+      "views": 146,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1008434&page=1"
+    },
+    {
+      "post_id": "1008433",
+      "title": "돈다이만 하게 해다오",
+      "author": "않이웨그러눈대",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-01",
+      "time": "06:03:15",
+      "datetime": "2026-03-01T06:03:15",
+      "views": 63,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1008433&page=1"
+    },
     {
       "post_id": "1008432",
       "title": "코덱스 걍 중간으로 두고 쓰는게 무난하네",
@@ -208397,5 +208467,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=988436&page=2"
     }
   ],
-  "total_posts": 14885
+  "total_posts": 14890
 }
