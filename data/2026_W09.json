@@ -4,8 +4,78 @@
   "week": "2026_W09",
   "week_start": "2026-02-23",
   "week_end": "2026-03-01",
-  "last_updated": "2026-03-01T14:57:43+09:00",
+  "last_updated": "2026-03-01T15:56:13+09:00",
   "posts": [
+    {
+      "post_id": "1009578",
+      "title": "그냥 5.2도 요즘 글 꽤 잘쓰지 않음?",
+      "author": "ㅁㅁ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-01",
+      "time": "23:59:47",
+      "datetime": "2026-03-01T23:59:47",
+      "views": 151,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1009578&page=2"
+    },
+    {
+      "post_id": "1009577",
+      "title": "특이점존버 1546일차",
+      "author": "alphaca",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-01",
+      "time": "23:59:45",
+      "datetime": "2026-03-01T23:59:45",
+      "views": 83,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1009577&page=2"
+    },
+    {
+      "post_id": "1009576",
+      "title": "순수 로컬만 돌릴거면 맥스튜디오나 rtx pro가 더 쌈",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-01",
+      "time": "23:59:29",
+      "datetime": "2026-03-01T23:59:29",
+      "views": 116,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1009576&page=2"
+    },
+    {
+      "post_id": "1009575",
+      "title": "지금은 상황 어떰?",
+      "author": "ㅇㅇ(220.94)",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-01",
+      "time": "23:57:55",
+      "datetime": "2026-03-01T23:57:55",
+      "views": 184,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1009575&page=2"
+    },
+    {
+      "post_id": "1009574",
+      "title": "씨댄스 2.0 저작권 좃됨?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-01",
+      "time": "23:57:46",
+      "datetime": "2026-03-01T23:57:46",
+      "views": 137,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1009574&page=2"
+    },
     {
       "post_id": "1009573",
       "title": "삼전 연구원 언제 대체 되냐?",
@@ -223475,5 +223545,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=988436&page=2"
     }
   ],
-  "total_posts": 15962
+  "total_posts": 15967
 }
