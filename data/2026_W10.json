@@ -4,8 +4,120 @@
   "week": "2026_W10",
   "week_start": "2026-03-02",
   "week_end": "2026-03-08",
-  "last_updated": "2026-03-06T21:02:50+09:00",
+  "last_updated": "2026-03-06T21:59:17+09:00",
   "posts": [
+    {
+      "post_id": "1040981",
+      "title": "특이점 망했다며? 그럼 이제부터 여긴",
+      "author": "ㅇㅇ",
+      "author_ip": "222.111",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-07",
+      "time": "06:41:18",
+      "datetime": "2026-03-07T06:41:18",
+      "views": 97,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1040981&page=1"
+    },
+    {
+      "post_id": "1040980",
+      "title": "BCI와 가상공간에 대한 중간 결론",
+      "author": "시뮬라크",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-07",
+      "time": "06:39:05",
+      "datetime": "2026-03-07T06:39:05",
+      "views": 46,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1040980&page=1"
+    },
+    {
+      "post_id": "1040979",
+      "title": "결국 단체로 특이점 가버렸노 ㅋㅋ",
+      "author": "ㅇㅇ",
+      "author_ip": "221.163",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-07",
+      "time": "06:30:01",
+      "datetime": "2026-03-07T06:30:01",
+      "views": 131,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1040979&page=1"
+    },
+    {
+      "post_id": "1040978",
+      "title": "그래서 짱깨 신모델 어떻게 됨?",
+      "author": "ㅇㅇ",
+      "author_ip": "122.35",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-07",
+      "time": "06:22:37",
+      "datetime": "2026-03-07T06:22:37",
+      "views": 116,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1040978&page=1"
+    },
+    {
+      "post_id": "1040976",
+      "title": "탈환",
+      "author": "참치ㅋ레커",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-07",
+      "time": "06:21:50",
+      "datetime": "2026-03-07T06:21:50",
+      "views": 65,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1040976&page=1"
+    },
+    {
+      "post_id": "1040975",
+      "title": "애가 자폐끼가 줄어든 만큼 좀 주관이 약해진거같기도",
+      "author": "ㅇㅇ",
+      "author_ip": "211.57",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-07",
+      "time": "06:17:05",
+      "datetime": "2026-03-07T06:17:05",
+      "views": 124,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1040975&page=1"
+    },
+    {
+      "post_id": "1040974",
+      "title": "갤 정보란 관리좀 해라",
+      "author": "ㅇㅇ",
+      "author_ip": "221.147",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-07",
+      "time": "06:16:02",
+      "datetime": "2026-03-07T06:16:02",
+      "views": 168,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1040974&page=1"
+    },
+    {
+      "post_id": "1040973",
+      "title": "코덱스 사용량 오류",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-07",
+      "time": "06:08:26",
+      "datetime": "2026-03-07T06:08:26",
+      "views": 112,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1040973&page=1"
+    },
     {
       "post_id": "1040970",
       "title": "지피티 렉 ㅈㄴ심해졌는데 나만 그러냐?",
@@ -411873,5 +411985,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1009579&page=2"
     }
   ],
-  "total_posts": 29419
+  "total_posts": 29427
 }
