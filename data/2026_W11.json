@@ -4,8 +4,120 @@
   "week": "2026_W11",
   "week_start": "2026-03-09",
   "week_end": "2026-03-15",
-  "last_updated": "2026-03-10T20:03:26+09:00",
+  "last_updated": "2026-03-10T21:05:02+09:00",
   "posts": [
+    {
+      "post_id": "1047699",
+      "title": "perplexity 유료결제 할만함?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-11",
+      "time": "06:01:29",
+      "datetime": "2026-03-11T06:01:29",
+      "views": 22,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1047699&page=1"
+    },
+    {
+      "post_id": "1047698",
+      "title": "Ai 시대에 중요한건 무엇일까",
+      "author": "시뮬라크",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-11",
+      "time": "06:00:44",
+      "datetime": "2026-03-11T06:00:44",
+      "views": 16,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1047698&page=1"
+    },
+    {
+      "post_id": "1047697",
+      "title": "바이브코딩 포기",
+      "author": "ㅇㅇ",
+      "author_ip": "222.237",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-11",
+      "time": "05:36:11",
+      "datetime": "2026-03-11T05:36:11",
+      "views": 152,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1047697&page=1"
+    },
+    {
+      "post_id": "1047696",
+      "title": "코드 짜는거보다 디버깅이 시간 더 걸리는거 같음",
+      "author": "ㅇㅇ",
+      "author_ip": "1.225",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-11",
+      "time": "05:34:02",
+      "datetime": "2026-03-11T05:34:02",
+      "views": 96,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1047696&page=1"
+    },
+    {
+      "post_id": "1047695",
+      "title": "형들 에이전트나 바이브코딩 배우려면 ㄹㅇ어떻게해야되?",
+      "author": "ㅇㅇ",
+      "author_ip": "175.124",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-11",
+      "time": "05:26:19",
+      "datetime": "2026-03-11T05:26:19",
+      "views": 136,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1047695&page=1"
+    },
+    {
+      "post_id": "1047694",
+      "title": "유튜브, gpt 공웹, 코덱스 다 터짐?",
+      "author": "STEIN",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-11",
+      "time": "05:22:57",
+      "datetime": "2026-03-11T05:22:57",
+      "views": 187,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1047694&page=1"
+    },
+    {
+      "post_id": "1047692",
+      "title": "속보) GPT 5.4 Pro가 프론티어매쓰 미해결 문제 처음 해결한 듯",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-11",
+      "time": "05:20:27",
+      "datetime": "2026-03-11T05:20:27",
+      "views": 182,
+      "likes": 3,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1047692&page=1"
+    },
+    {
+      "post_id": "1047691",
+      "title": "제미나이는 완전 인싸같고 GPT는 고학럭 이대남같네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-11",
+      "time": "05:18:01",
+      "datetime": "2026-03-11T05:18:01",
+      "views": 153,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1047691&page=1"
+    },
     {
       "post_id": "1047689",
       "title": "클로드 디자인 왤케 섹시하냐",
@@ -45325,5 +45437,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1044235&page=2"
     }
   ],
-  "total_posts": 3237
+  "total_posts": 3245
 }
