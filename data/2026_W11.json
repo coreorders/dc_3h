@@ -4,8 +4,106 @@
   "week": "2026_W11",
   "week_start": "2026-03-09",
   "week_end": "2026-03-15",
-  "last_updated": "2026-03-11T21:04:50+09:00",
+  "last_updated": "2026-03-11T22:00:42+09:00",
   "posts": [
+    {
+      "post_id": "1049249",
+      "title": "반중력 사용량 왜 지랄났지",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "06:54:38",
+      "datetime": "2026-03-12T06:54:38",
+      "views": 26,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049249&page=1"
+    },
+    {
+      "post_id": "1049248",
+      "title": "깃헙 코파일럿 gpt 4.1 무제한인게 존나 킥이네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "06:50:28",
+      "datetime": "2026-03-12T06:50:28",
+      "views": 53,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049248&page=1"
+    },
+    {
+      "post_id": "1049246",
+      "title": "나는 오픈클로봇같은 멀티 에이전트 동시루프 프로그램만들어서쓰는데",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "06:31:12",
+      "datetime": "2026-03-12T06:31:12",
+      "views": 95,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049246&page=1"
+    },
+    {
+      "post_id": "1049245",
+      "title": "中, 정부기관·국유기업에 오픈클로AI 금지령\"",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "06:24:08",
+      "datetime": "2026-03-12T06:24:08",
+      "views": 122,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049245&page=1"
+    },
+    {
+      "post_id": "1049244",
+      "title": "벌써 부터 5.1이 그리워졌다",
+      "author": "ㅋㅋㅋㅋㅋㅋㅋㅎㅎㅎㅎㅋㅋㅋ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "06:19:42",
+      "datetime": "2026-03-12T06:19:42",
+      "views": 142,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049244&page=1"
+    },
+    {
+      "post_id": "1049243",
+      "title": "지금 코덱스 두 배 이벤트임?",
+      "author": "ㅇㅇ",
+      "author_ip": "112.161",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-12",
+      "time": "06:12:36",
+      "datetime": "2026-03-12T06:12:36",
+      "views": 118,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049243&page=1"
+    },
+    {
+      "post_id": "1049242",
+      "title": "구글 깡계 파는거 쉬운방법 없나",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "06:06:01",
+      "datetime": "2026-03-12T06:06:01",
+      "views": 152,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049242&page=1"
+    },
     {
       "post_id": "1049241",
       "title": "코텍스 사용량 제한 왜 없어짐?",
@@ -65625,5 +65723,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1044235&page=2"
     }
   ],
-  "total_posts": 4687
+  "total_posts": 4694
 }
