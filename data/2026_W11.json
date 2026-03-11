@@ -4,8 +4,92 @@
   "week": "2026_W11",
   "week_start": "2026-03-09",
   "week_end": "2026-03-15",
-  "last_updated": "2026-03-11T19:30:35+09:00",
+  "last_updated": "2026-03-11T20:03:31+09:00",
   "posts": [
+    {
+      "post_id": "1049231",
+      "title": "안녕하세요 ai 왕초보인데 질문 드려요 (장문 글)",
+      "author": "ㅇㅇ",
+      "author_ip": "110.11",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-12",
+      "time": "04:53:55",
+      "datetime": "2026-03-12T04:53:55",
+      "views": 54,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049231&page=1"
+    },
+    {
+      "post_id": "1049230",
+      "title": "즉 2030은 특이점이 진짜인지 “판정 시점”에 가까운 해다",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "04:48:21",
+      "datetime": "2026-03-12T04:48:21",
+      "views": 79,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049230&page=1"
+    },
+    {
+      "post_id": "1049229",
+      "title": "그록이 정보검색은 지리는구나",
+      "author": "평생쉬었음",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "04:47:10",
+      "datetime": "2026-03-12T04:47:10",
+      "views": 45,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049229&page=1"
+    },
+    {
+      "post_id": "1049227",
+      "title": "특이점 아직은 언제올지",
+      "author": "ㄱㅁ",
+      "author_ip": "122.153",
+      "author_type": "ip",
+      "date": "2026-03-12",
+      "time": "04:43:27",
+      "datetime": "2026-03-12T04:43:27",
+      "views": 25,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049227&page=1"
+    },
+    {
+      "post_id": "1049226",
+      "title": "5.4 진짜 존나 똑똑하다...",
+      "author": "EXERCENS",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "04:37:53",
+      "datetime": "2026-03-12T04:37:53",
+      "views": 160,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049226&page=1"
+    },
+    {
+      "post_id": "1049225",
+      "title": "제미나이 플러스랑 프로중에 플러스 ㄱㅊ?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-12",
+      "time": "04:32:59",
+      "datetime": "2026-03-12T04:32:59",
+      "views": 33,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1049225&page=1"
+    },
     {
       "post_id": "1049224",
       "title": "챗지피티 <~ 이새끼 귀 준내 얇네",
@@ -65401,5 +65485,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1044235&page=2"
     }
   ],
-  "total_posts": 4671
+  "total_posts": 4677
 }
