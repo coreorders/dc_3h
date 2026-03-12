@@ -4,8 +4,64 @@
   "week": "2026_W11",
   "week_start": "2026-03-09",
   "week_end": "2026-03-15",
-  "last_updated": "2026-03-12T21:17:26+09:00",
+  "last_updated": "2026-03-12T22:00:41+09:00",
   "posts": [
+    {
+      "post_id": "1050640",
+      "title": "[인공지능] AI로 만든 슬램덩크 실사 뮤직비디오, ㅇㅇ",
+      "author": "ㅇㅇ",
+      "author_ip": "182.211",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-13",
+      "time": "06:42:26",
+      "datetime": "2026-03-13T06:42:26",
+      "views": 58,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050640&page=1"
+    },
+    {
+      "post_id": "1050639",
+      "title": "ai커버곡 어디서 만듬",
+      "author": "ㅇㅇ",
+      "author_ip": "58.124",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-13",
+      "time": "06:37:36",
+      "datetime": "2026-03-13T06:37:36",
+      "views": 28,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050639&page=1"
+    },
+    {
+      "post_id": "1050637",
+      "title": "제미니 환각 지리네 ㅋㅋ",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "06:36:28",
+      "datetime": "2026-03-13T06:36:28",
+      "views": 155,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050637&page=1"
+    },
+    {
+      "post_id": "1050635",
+      "title": "으하하 고정닉 생성 완료",
+      "author": "설레임",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "06:21:31",
+      "datetime": "2026-03-13T06:21:31",
+      "views": 105,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050635&page=1"
+    },
     {
       "post_id": "1050634",
       "title": "역노화때문에 1일 1식보단 그냥 저탄고지 2끼먹으라는데?",
@@ -83979,5 +84035,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1044235&page=2"
     }
   ],
-  "total_posts": 5998
+  "total_posts": 6002
 }
