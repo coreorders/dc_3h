@@ -4,8 +4,92 @@
   "week": "2026_W11",
   "week_start": "2026-03-09",
   "week_end": "2026-03-15",
-  "last_updated": "2026-03-12T20:03:45+09:00",
+  "last_updated": "2026-03-12T21:17:26+09:00",
   "posts": [
+    {
+      "post_id": "1050634",
+      "title": "역노화때문에 1일 1식보단 그냥 저탄고지 2끼먹으라는데?",
+      "author": "ㅇㅇ",
+      "author_ip": "14.52",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-13",
+      "time": "06:00:15",
+      "datetime": "2026-03-13T06:00:15",
+      "views": 73,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050634&page=1"
+    },
+    {
+      "post_id": "1050633",
+      "title": "특붕이 vs 컴공 교수중 누가 llm 채찍질 잘함",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "05:52:12",
+      "datetime": "2026-03-13T05:52:12",
+      "views": 74,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050633&page=1"
+    },
+    {
+      "post_id": "1050632",
+      "title": "클로드 코드로 꼭 개발만 해야할까?",
+      "author": "개발용더미",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "05:45:28",
+      "datetime": "2026-03-13T05:45:28",
+      "views": 126,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050632&page=1"
+    },
+    {
+      "post_id": "1050631",
+      "title": "👾 만들고있는것",
+      "author": "ㅇㅇ",
+      "author_ip": "61.80",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-13",
+      "time": "05:41:40",
+      "datetime": "2026-03-13T05:41:40",
+      "views": 195,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050631&page=1"
+    },
+    {
+      "post_id": "1050629",
+      "title": "월드시뮬 이거 ㅈㄴ 웃기네",
+      "author": "댕댕충",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "05:16:32",
+      "datetime": "2026-03-13T05:16:32",
+      "views": 259,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050629&page=1"
+    },
+    {
+      "post_id": "1050628",
+      "title": "아프리카는 이번 세기 안에 선진국화할 수 있을까",
+      "author": "ㅇㅇ",
+      "author_ip": "175.209",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-13",
+      "time": "05:16:04",
+      "datetime": "2026-03-13T05:16:04",
+      "views": 113,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050628&page=1"
+    },
     {
       "post_id": "1050627",
       "title": "후진국은 과도기나 ubi 어떻게될지 궁금함",
@@ -83895,5 +83979,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1044235&page=2"
     }
   ],
-  "total_posts": 5992
+  "total_posts": 5998
 }
