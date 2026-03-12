@@ -4,8 +4,106 @@
   "week": "2026_W11",
   "week_start": "2026-03-09",
   "week_end": "2026-03-15",
-  "last_updated": "2026-03-12T19:30:24+09:00",
+  "last_updated": "2026-03-12T20:03:45+09:00",
   "posts": [
+    {
+      "post_id": "1050627",
+      "title": "후진국은 과도기나 ubi 어떻게될지 궁금함",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "04:55:06",
+      "datetime": "2026-03-13T04:55:06",
+      "views": 26,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050627&page=1"
+    },
+    {
+      "post_id": "1050626",
+      "title": "소라2 api 공개된거 이전이랑 다른게 뭐임?",
+      "author": "케식",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "04:53:40",
+      "datetime": "2026-03-13T04:53:40",
+      "views": 13,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050626&page=1"
+    },
+    {
+      "post_id": "1050625",
+      "title": "Gemini, gpt 소설 비교",
+      "author": "ㅇㅇ",
+      "author_ip": "27.35",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-13",
+      "time": "04:52:47",
+      "datetime": "2026-03-13T04:52:47",
+      "views": 53,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050625&page=1"
+    },
+    {
+      "post_id": "1050624",
+      "title": "재미나이랑 퍼플렉시티 무료로 쓰다가 끝낫다..",
+      "author": "유동",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "04:43:28",
+      "datetime": "2026-03-13T04:43:28",
+      "views": 77,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050624&page=1"
+    },
+    {
+      "post_id": "1050623",
+      "title": "마법 같은 색소",
+      "author": "ㅇㅇ",
+      "author_ip": "182.211",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-13",
+      "time": "04:41:49",
+      "datetime": "2026-03-13T04:41:49",
+      "views": 24,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050623&page=1"
+    },
+    {
+      "post_id": "1050621",
+      "title": "클로드코드pro + 챗지피티플러스 사용중인데 질문",
+      "author": "APY3678%",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "04:32:57",
+      "datetime": "2026-03-13T04:32:57",
+      "views": 43,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050621&page=1"
+    },
+    {
+      "post_id": "1050620",
+      "title": "(특갤문학) 특붕이가 겨울을 외치지 않으려면...",
+      "author": "Asi",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-13",
+      "time": "04:32:17",
+      "datetime": "2026-03-13T04:32:17",
+      "views": 85,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1050620&page=1"
+    },
     {
       "post_id": "1050619",
       "title": "미식축구 만화",
@@ -83797,5 +83895,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1044235&page=2"
     }
   ],
-  "total_posts": 5985
+  "total_posts": 5992
 }
