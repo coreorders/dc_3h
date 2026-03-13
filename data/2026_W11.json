@@ -4,8 +4,120 @@
   "week": "2026_W11",
   "week_start": "2026-03-09",
   "week_end": "2026-03-15",
-  "last_updated": "2026-03-13T21:17:51+09:00",
+  "last_updated": "2026-03-13T22:01:41+09:00",
   "posts": [
+    {
+      "post_id": "1051976",
+      "title": "클로드코드랑 코덱스 둘다 써봤는데",
+      "author": "미하테",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-14",
+      "time": "06:58:54",
+      "datetime": "2026-03-14T06:58:54",
+      "views": 26,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1051976&page=1"
+    },
+    {
+      "post_id": "1051975",
+      "title": "로컬모델은 결국 속도때문에 안썼는데",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-14",
+      "time": "06:47:29",
+      "datetime": "2026-03-14T06:47:29",
+      "views": 112,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1051975&page=1"
+    },
+    {
+      "post_id": "1051974",
+      "title": "코덱스 5.4 xhigh vs 클코 opus 4.6",
+      "author": "ㅇㅇ",
+      "author_ip": "183.101",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-14",
+      "time": "06:46:34",
+      "datetime": "2026-03-14T06:46:34",
+      "views": 51,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1051974&page=1"
+    },
+    {
+      "post_id": "1051973",
+      "title": "로컬모델은 오픈클로 후로 그 진가를 알아보는사람들이 있음",
+      "author": "맥미니",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-14",
+      "time": "06:42:48",
+      "datetime": "2026-03-14T06:42:48",
+      "views": 88,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1051973&page=1"
+    },
+    {
+      "post_id": "1051972",
+      "title": "GPT Pro << 딱히 활용을 못하겠음",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-14",
+      "time": "06:40:36",
+      "datetime": "2026-03-14T06:40:36",
+      "views": 124,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1051972&page=1"
+    },
+    {
+      "post_id": "1051971",
+      "title": "사실상 코딩갤 아니냐?",
+      "author": "ㅇㅇ",
+      "author_ip": "180.230",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-14",
+      "time": "06:40:17",
+      "datetime": "2026-03-14T06:40:17",
+      "views": 69,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1051971&page=1"
+    },
+    {
+      "post_id": "1051970",
+      "title": "what did morgan stanley see?",
+      "author": "ㅇㅇ",
+      "author_ip": "122.36",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-14",
+      "time": "06:17:55",
+      "datetime": "2026-03-14T06:17:55",
+      "views": 50,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1051970&page=1"
+    },
+    {
+      "post_id": "1051969",
+      "title": "월드 시뮬 이거 개좋네",
+      "author": "향화",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-14",
+      "time": "06:17:55",
+      "datetime": "2026-03-14T06:17:55",
+      "views": 83,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1051969&page=1"
+    },
     {
       "post_id": "1051968",
       "title": "님들 제미나이 무료버전 이거 오류같은데 질문좀",
@@ -101927,5 +102039,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1044235&page=2"
     }
   ],
-  "total_posts": 7280
+  "total_posts": 7288
 }
