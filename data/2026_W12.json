@@ -4,8 +4,120 @@
   "week": "2026_W12",
   "week_start": "2026-03-16",
   "week_end": "2026-03-22",
-  "last_updated": "2026-03-15T19:17:23+09:00",
+  "last_updated": "2026-03-15T19:59:01+09:00",
   "posts": [
+    {
+      "post_id": "1055831",
+      "title": "애초에 프롬프트는 ai가 인간의 의도를 못알아먹어서 쓰는거잖아",
+      "author": "과자에오",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-16",
+      "time": "04:56:42",
+      "datetime": "2026-03-16T04:56:42",
+      "views": 16,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055831&page=1"
+    },
+    {
+      "post_id": "1055830",
+      "title": "프롬프트 엔지니어 <- 진짜 말안되는 허상에 가까운 직업임",
+      "author": "ㅇㅇ",
+      "author_ip": "220.89",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-16",
+      "time": "04:49:29",
+      "datetime": "2026-03-16T04:49:29",
+      "views": 73,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055830&page=1"
+    },
+    {
+      "post_id": "1055829",
+      "title": "ai영화 예고편 만들어봤습니다",
+      "author": "ㅇㅇ",
+      "author_ip": "220.120",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-16",
+      "time": "04:45:43",
+      "datetime": "2026-03-16T04:45:43",
+      "views": 68,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055829&page=1"
+    },
+    {
+      "post_id": "1055827",
+      "title": "5.4프로 이거 원래 오토보다 답변속도 훨느림? 띵킹써야하나?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-16",
+      "time": "04:35:53",
+      "datetime": "2026-03-16T04:35:53",
+      "views": 89,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055827&page=1"
+    },
+    {
+      "post_id": "1055826",
+      "title": "코덱스 오링나도 크레딧 현질말아라..",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-16",
+      "time": "04:34:14",
+      "datetime": "2026-03-16T04:34:14",
+      "views": 52,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055826&page=1"
+    },
+    {
+      "post_id": "1055825",
+      "title": "젬민이3.1플래시라이트 ㄹㅇ존나빠르네",
+      "author": "삐걱",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-16",
+      "time": "04:21:55",
+      "datetime": "2026-03-16T04:21:55",
+      "views": 83,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055825&page=1"
+    },
+    {
+      "post_id": "1055823",
+      "title": "카타르는 이미 UBI 국가임",
+      "author": "Djd",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-16",
+      "time": "04:20:41",
+      "datetime": "2026-03-16T04:20:41",
+      "views": 85,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055823&page=1"
+    },
+    {
+      "post_id": "1055822",
+      "title": "진화한인류는 딸딸이 안치겠지? 라 생각했음",
+      "author": "ㅇㅇ",
+      "author_ip": "211.47",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-16",
+      "time": "04:19:20",
+      "datetime": "2026-03-16T04:19:20",
+      "views": 140,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055822&page=1"
+    },
     {
       "post_id": "1055821",
       "title": "클로드 2배 왜 적용안됨",
@@ -2779,5 +2891,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055611&page=1"
     }
   ],
-  "total_posts": 198
+  "total_posts": 206
 }
