@@ -1,0 +1,81 @@
+{
+  "gallery_id": "thesingularity",
+  "gallery_name": "특이점이 온다",
+  "week": "2026_W12",
+  "week_start": "2026-03-16",
+  "week_end": "2026-03-22",
+  "last_updated": "2026-03-15T15:03:11+09:00",
+  "posts": [
+    {
+      "post_id": "1055616",
+      "title": "지금 눈 감았다가 15년 뒤에 뜨고 싶다",
+      "author": "저는한글이좋아요",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-16",
+      "time": "00:02:54",
+      "datetime": "2026-03-16T00:02:54",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055616&page=1"
+    },
+    {
+      "post_id": "1055615",
+      "title": "asi가 전지전능할거라 생각지 않음",
+      "author": "마리",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-16",
+      "time": "00:02:53",
+      "datetime": "2026-03-16T00:02:53",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055615&page=1"
+    },
+    {
+      "post_id": "1055614",
+      "title": "gpt 5.3 널널~하네",
+      "author": "ㅇㅇ",
+      "author_ip": "1.234",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-16",
+      "time": "00:02:26",
+      "datetime": "2026-03-16T00:02:26",
+      "views": 16,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055614&page=1"
+    },
+    {
+      "post_id": "1055612",
+      "title": "잼민이 왤캐 추론 안함",
+      "author": "ㅇㅇ",
+      "author_ip": "1.247",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-16",
+      "time": "00:01:47",
+      "datetime": "2026-03-16T00:01:47",
+      "views": 23,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055612&page=1"
+    },
+    {
+      "post_id": "1055611",
+      "title": "openclaw 에서 크롬 브라우저툴 기능 좋네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-16",
+      "time": "00:01:26",
+      "datetime": "2026-03-16T00:01:26",
+      "views": 20,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055611&page=1"
+    }
+  ],
+  "total_posts": 5
+}
