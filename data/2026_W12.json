@@ -4,8 +4,106 @@
   "week": "2026_W12",
   "week_start": "2026-03-16",
   "week_end": "2026-03-22",
-  "last_updated": "2026-03-16T22:18:28+09:00",
+  "last_updated": "2026-03-16T23:03:35+09:00",
   "posts": [
+    {
+      "post_id": "1057454",
+      "title": "노트북LM 공유 질문",
+      "author": "ㅇㅇ",
+      "author_ip": "122.40",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-17",
+      "time": "07:53:01",
+      "datetime": "2026-03-17T07:53:01",
+      "views": 63,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1057454&page=1"
+    },
+    {
+      "post_id": "1057453",
+      "title": "근데 코덱스 기능 붙이면서",
+      "author": "ㅇㅇ",
+      "author_ip": "112.161",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-17",
+      "time": "07:52:32",
+      "datetime": "2026-03-17T07:52:32",
+      "views": 68,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1057453&page=1"
+    },
+    {
+      "post_id": "1057452",
+      "title": "oai가 코덱스 계속 미는 이유",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-17",
+      "time": "07:49:46",
+      "datetime": "2026-03-17T07:49:46",
+      "views": 151,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1057452&page=1"
+    },
+    {
+      "post_id": "1057451",
+      "title": "코딩공부 중요하노",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-17",
+      "time": "07:44:45",
+      "datetime": "2026-03-17T07:44:45",
+      "views": 168,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1057451&page=1"
+    },
+    {
+      "post_id": "1057450",
+      "title": "카르노신 << 이거 영양제 개좋은듯",
+      "author": "하무열",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-17",
+      "time": "07:43:01",
+      "datetime": "2026-03-17T07:43:01",
+      "views": 104,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1057450&page=1"
+    },
+    {
+      "post_id": "1057449",
+      "title": "카이스트 모교에 10억 기부한 20대 천재 사업가",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-17",
+      "time": "07:28:16",
+      "datetime": "2026-03-17T07:28:16",
+      "views": 256,
+      "likes": 5,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1057449&page=1"
+    },
+    {
+      "post_id": "1057447",
+      "title": "그렉: GPT-5.4 ㅈㄴ 잘나간다",
+      "author": "메론맛콜라가먹고싶어",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-17",
+      "time": "07:19:48",
+      "datetime": "2026-03-17T07:19:48",
+      "views": 441,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1057447&page=1"
+    },
     {
       "post_id": "1057446",
       "title": "신세계의 데이터센터가 온다",
@@ -24073,5 +24171,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055611&page=1"
     }
   ],
-  "total_posts": 1719
+  "total_posts": 1726
 }
