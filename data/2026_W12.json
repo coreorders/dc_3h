@@ -4,8 +4,78 @@
   "week": "2026_W12",
   "week_start": "2026-03-16",
   "week_end": "2026-03-22",
-  "last_updated": "2026-03-20T19:26:16+09:00",
+  "last_updated": "2026-03-20T20:01:57+09:00",
   "posts": [
+    {
+      "post_id": "1065567",
+      "title": "알트만이 나온다니",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-21",
+      "time": "04:51:31",
+      "datetime": "2026-03-21T04:51:31",
+      "views": 59,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1065567&page=1"
+    },
+    {
+      "post_id": "1065566",
+      "title": "빨리 백수시대 만들어달라고",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-21",
+      "time": "04:50:49",
+      "datetime": "2026-03-21T04:50:49",
+      "views": 22,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1065566&page=1"
+    },
+    {
+      "post_id": "1065565",
+      "title": "사람을 효과적으로 다루는 방법 있으려나",
+      "author": "프리드리히나체",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-21",
+      "time": "04:49:16",
+      "datetime": "2026-03-21T04:49:16",
+      "views": 67,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1065565&page=1"
+    },
+    {
+      "post_id": "1065564",
+      "title": "뭐야 씨발",
+      "author": "맘보토",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-21",
+      "time": "04:42:10",
+      "datetime": "2026-03-21T04:42:10",
+      "views": 148,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1065564&page=1"
+    },
+    {
+      "post_id": "1065563",
+      "title": "특붕이 념글간 정보글 지우고 그냥 제대로된 정보글 쓰기로 했다..",
+      "author": "맘보토",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-21",
+      "time": "04:29:09",
+      "datetime": "2026-03-21T04:29:09",
+      "views": 138,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1065563&page=1"
+    },
     {
       "post_id": "1065562",
       "title": "아 모르겠다 시발 더이상 특정 ai에 집착 안할래 ㅅㄱ",
@@ -104573,5 +104643,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055611&page=1"
     }
   ],
-  "total_posts": 7469
+  "total_posts": 7474
 }
