@@ -4,8 +4,64 @@
   "week": "2026_W12",
   "week_start": "2026-03-16",
   "week_end": "2026-03-22",
-  "last_updated": "2026-03-21T19:05:10+09:00",
+  "last_updated": "2026-03-21T19:56:11+09:00",
   "posts": [
+    {
+      "post_id": "1066497",
+      "title": "3시간 걸려서 적던 개발 스펙 문서를 클로드가 30초만에 만들었어",
+      "author": "라치치",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "04:46:42",
+      "datetime": "2026-03-22T04:46:42",
+      "views": 49,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066497&page=1"
+    },
+    {
+      "post_id": "1066496",
+      "title": "빨리 ai 혁명 왔음 좋겠어",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "04:23:58",
+      "datetime": "2026-03-22T04:23:58",
+      "views": 129,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066496&page=1"
+    },
+    {
+      "post_id": "1066495",
+      "title": "디시체는 젬황이다 ㄹㅇ",
+      "author": "삼플",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "04:11:35",
+      "datetime": "2026-03-22T04:11:35",
+      "views": 216,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066495&page=1"
+    },
+    {
+      "post_id": "1066494",
+      "title": "전세계 출산율 떡락 이유가 미국 때문 아니냐",
+      "author": "ㅇㅇ",
+      "author_ip": "222.104",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-22",
+      "time": "04:05:36",
+      "datetime": "2026-03-22T04:05:36",
+      "views": 319,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066494&page=1"
+    },
     {
       "post_id": "1066493",
       "title": "반중력에 코덱스 까니까 좋네",
@@ -116809,5 +116865,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055611&page=1"
     }
   ],
-  "total_posts": 8343
+  "total_posts": 8347
 }
