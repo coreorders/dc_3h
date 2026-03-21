@@ -4,8 +4,106 @@
   "week": "2026_W12",
   "week_start": "2026-03-16",
   "week_end": "2026-03-22",
-  "last_updated": "2026-03-21T20:59:54+09:00",
+  "last_updated": "2026-03-21T21:57:31+09:00",
   "posts": [
+    {
+      "post_id": "1066515",
+      "title": "존재하지 않는 그럴듯한 거짓말도 지어냄",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "06:47:53",
+      "datetime": "2026-03-22T06:47:53",
+      "views": 28,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066515&page=1"
+    },
+    {
+      "post_id": "1066514",
+      "title": "webp 변환 존나 빠르게 하는법 없나",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "06:33:06",
+      "datetime": "2026-03-22T06:33:06",
+      "views": 83,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066514&page=1"
+    },
+    {
+      "post_id": "1066513",
+      "title": "다들 바이브 코딩 알차게쓰네..",
+      "author": "케식",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "06:26:20",
+      "datetime": "2026-03-22T06:26:20",
+      "views": 108,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066513&page=1"
+    },
+    {
+      "post_id": "1066512",
+      "title": "앱 개발 이렇게 하는중",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "06:23:20",
+      "datetime": "2026-03-22T06:23:20",
+      "views": 73,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066512&page=1"
+    },
+    {
+      "post_id": "1066510",
+      "title": "ㅅㅂ 클로드 쓰다가 gpt 쓰니까 천국이네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "06:10:21",
+      "datetime": "2026-03-22T06:10:21",
+      "views": 147,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066510&page=1"
+    },
+    {
+      "post_id": "1066509",
+      "title": "비전 젬보다 짚이 더 좋네 ㄷㄷ",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-22",
+      "time": "06:07:30",
+      "datetime": "2026-03-22T06:07:30",
+      "views": 144,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066509&page=1"
+    },
+    {
+      "post_id": "1066508",
+      "title": "흙수저 대학생 Ai 평가좀",
+      "author": "ㅇㅇ",
+      "author_ip": "211.118",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-22",
+      "time": "06:06:28",
+      "datetime": "2026-03-22T06:06:28",
+      "views": 114,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1066508&page=1"
+    },
     {
       "post_id": "1066507",
       "title": "코덱스 패스트모드 컴터똥컴이여도 의미잇음?",
@@ -116977,5 +117075,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1055611&page=1"
     }
   ],
-  "total_posts": 8355
+  "total_posts": 8362
 }
