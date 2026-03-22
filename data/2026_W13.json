@@ -4,8 +4,92 @@
   "week": "2026_W13",
   "week_start": "2026-03-23",
   "week_end": "2026-03-29",
-  "last_updated": "2026-03-22T19:56:24+09:00",
+  "last_updated": "2026-03-22T21:00:46+09:00",
   "posts": [
+    {
+      "post_id": "1068334",
+      "title": "미친 짱깨 llm한테 병먹금당함",
+      "author": "NM",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-23",
+      "time": "06:00:19",
+      "datetime": "2026-03-23T06:00:19",
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068334&page=1"
+    },
+    {
+      "post_id": "1068333",
+      "title": "망갤 테스트",
+      "author": "지붕이",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-23",
+      "time": "05:58:44",
+      "datetime": "2026-03-23T05:58:44",
+      "views": 18,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068333&page=1"
+    },
+    {
+      "post_id": "1068332",
+      "title": "그러고 보니 가정용 휴머노이드가 보편화되면",
+      "author": "ㅇㅇ",
+      "author_ip": "220.71",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-23",
+      "time": "05:58:08",
+      "datetime": "2026-03-23T05:58:08",
+      "views": 11,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068332&page=1"
+    },
+    {
+      "post_id": "1068331",
+      "title": "산업공학과 vs 화학공학과",
+      "author": "ㅇㅇ",
+      "author_ip": "211.118",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-23",
+      "time": "05:52:52",
+      "datetime": "2026-03-23T05:52:52",
+      "views": 16,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068331&page=1"
+    },
+    {
+      "post_id": "1068330",
+      "title": "겨울이다..",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-23",
+      "time": "05:52:14",
+      "datetime": "2026-03-23T05:52:14",
+      "views": 19,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068330&page=1"
+    },
+    {
+      "post_id": "1068329",
+      "title": "듄의 버틀레리안 지하드, 워해머40k의 기계교 이런 네오 러다이트",
+      "author": "ㅇㅇ",
+      "author_ip": "220.71",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-23",
+      "time": "05:08:41",
+      "datetime": "2026-03-23T05:08:41",
+      "views": 102,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068329&page=1"
+    },
     {
       "post_id": "1068327",
       "title": "뉴스) 붉은사막, AI 에셋 사용 논란에 제한 없는 환불 발생",
@@ -3367,5 +3451,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1067489&page=2"
     }
   ],
-  "total_posts": 240
+  "total_posts": 246
 }
