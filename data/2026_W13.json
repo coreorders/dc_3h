@@ -4,8 +4,120 @@
   "week": "2026_W13",
   "week_start": "2026-03-23",
   "week_end": "2026-03-29",
-  "last_updated": "2026-03-22T19:14:22+09:00",
+  "last_updated": "2026-03-22T19:56:24+09:00",
   "posts": [
+    {
+      "post_id": "1068327",
+      "title": "뉴스) 붉은사막, AI 에셋 사용 논란에 제한 없는 환불 발생",
+      "author": "ㅇㅇ",
+      "author_ip": "59.24",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-23",
+      "time": "04:48:51",
+      "datetime": "2026-03-23T04:48:51",
+      "views": 48,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068327&page=1"
+    },
+    {
+      "post_id": "1068326",
+      "title": "코덱스 언젠간 모바일에서도 구동되게끔 나올 것같음?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-23",
+      "time": "04:44:13",
+      "datetime": "2026-03-23T04:44:13",
+      "views": 40,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068326&page=1"
+    },
+    {
+      "post_id": "1068325",
+      "title": "혹시 금융관련 계산하거나 그런건 어떤 모델 뭐가 좋아?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-23",
+      "time": "04:36:14",
+      "datetime": "2026-03-23T04:36:14",
+      "views": 68,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068325&page=1"
+    },
+    {
+      "post_id": "1068324",
+      "title": "한 가지 위험 신호",
+      "author": "일본에간대학원생",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-23",
+      "time": "04:32:55",
+      "datetime": "2026-03-23T04:32:55",
+      "views": 122,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068324&page=1"
+    },
+    {
+      "post_id": "1068323",
+      "title": "당연히 다들 대체되겠지",
+      "author": "ㅇㅇ",
+      "author_ip": "122.35",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-23",
+      "time": "04:29:34",
+      "datetime": "2026-03-23T04:29:34",
+      "views": 47,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068323&page=1"
+    },
+    {
+      "post_id": "1068321",
+      "title": "로건 \"모든 산업이 이제 막 뒤흔들릴 것이다.\"",
+      "author": "초존도초",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-23",
+      "time": "04:23:46",
+      "datetime": "2026-03-23T04:23:46",
+      "views": 224,
+      "likes": 7,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068321&page=1"
+    },
+    {
+      "post_id": "1068320",
+      "title": "클링 원래 영상 뽑는데 오래 걸림?",
+      "author": "flowering",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-23",
+      "time": "04:22:27",
+      "datetime": "2026-03-23T04:22:27",
+      "views": 40,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068320&page=1"
+    },
+    {
+      "post_id": "1068319",
+      "title": "2030년 됐는데 여전히 노동하고있다면",
+      "author": "ㅇㅇ",
+      "author_ip": "220.121",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-23",
+      "time": "04:19:19",
+      "datetime": "2026-03-23T04:19:19",
+      "views": 64,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1068319&page=1"
+    },
     {
       "post_id": "1068317",
       "title": "Supermemory 대략 평가",
@@ -3255,5 +3367,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1067489&page=2"
     }
   ],
-  "total_posts": 232
+  "total_posts": 240
 }
