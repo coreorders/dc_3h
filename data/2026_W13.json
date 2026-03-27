@@ -4,8 +4,120 @@
   "week": "2026_W13",
   "week_start": "2026-03-23",
   "week_end": "2026-03-29",
-  "last_updated": "2026-03-27T19:30:17+09:00",
+  "last_updated": "2026-03-27T20:05:01+09:00",
   "posts": [
+    {
+      "post_id": "1075660",
+      "title": "시댄스 죽어",
+      "author": "평생쉬었음",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-28",
+      "time": "04:54:49",
+      "datetime": "2026-03-28T04:54:49",
+      "views": 50,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1075660&page=1"
+    },
+    {
+      "post_id": "1075658",
+      "title": "앤트로픽 곧 큰 거 온다 카더라 모음",
+      "author": "초존도초",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-28",
+      "time": "04:48:56",
+      "datetime": "2026-03-28T04:48:56",
+      "views": 115,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1075658&page=1"
+    },
+    {
+      "post_id": "1075657",
+      "title": "2026년 완공이랬나?",
+      "author": "않이웨그러눈대",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-28",
+      "time": "04:47:55",
+      "datetime": "2026-03-28T04:47:55",
+      "views": 27,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1075657&page=1"
+    },
+    {
+      "post_id": "1075656",
+      "title": "돈 많이벌어서 씨댄스2 쓰고시픔",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-28",
+      "time": "04:40:33",
+      "datetime": "2026-03-28T04:40:33",
+      "views": 101,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1075656&page=1"
+    },
+    {
+      "post_id": "1075655",
+      "title": "알트만 \"미시간 스타게이트 이번 주 첫 번째 철골 설치 완료\"",
+      "author": "초존도초",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-28",
+      "time": "04:37:56",
+      "datetime": "2026-03-28T04:37:56",
+      "views": 151,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1075655&page=1"
+    },
+    {
+      "post_id": "1075654",
+      "title": "코덱스 117버전에 무슨 서브에이전트들끼리 문자보내는 기능 추가돼ㅔㅆ다",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-28",
+      "time": "04:37:45",
+      "datetime": "2026-03-28T04:37:45",
+      "views": 73,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1075654&page=1"
+    },
+    {
+      "post_id": "1075653",
+      "title": "suno v5.5 아웃트로를 ㅈㄴ 질질끄는 버릇이 있네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-28",
+      "time": "04:33:30",
+      "datetime": "2026-03-28T04:33:30",
+      "views": 51,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1075653&page=1"
+    },
+    {
+      "post_id": "1075651",
+      "title": "장문) arc agi 3 문제가 '범용 하네스'로 해결된다는건...",
+      "author": "하늘바라기",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-28",
+      "time": "04:31:12",
+      "datetime": "2026-03-28T04:31:12",
+      "views": 120,
+      "likes": 4,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1075651&page=1"
+    },
     {
       "post_id": "1075650",
       "title": "\"특붕이는 뭔가 행복하지 않았지?\"",
@@ -91483,5 +91595,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1067489&page=2"
     }
   ],
-  "total_posts": 6534
+  "total_posts": 6542
 }
