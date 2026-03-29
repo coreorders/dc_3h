@@ -4,8 +4,120 @@
   "week": "2026_W14",
   "week_start": "2026-03-30",
   "week_end": "2026-04-05",
-  "last_updated": "2026-03-29T20:01:34+09:00",
+  "last_updated": "2026-03-29T21:04:44+09:00",
   "posts": [
+    {
+      "post_id": "1078401",
+      "title": "ai마망",
+      "author": "탈모는범죄",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-30",
+      "time": "05:52:23",
+      "datetime": "2026-03-30T05:52:23",
+      "views": 28,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078401&page=1"
+    },
+    {
+      "post_id": "1078400",
+      "title": "특갤하려면 독서가 필수이긴 함",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-30",
+      "time": "05:50:55",
+      "datetime": "2026-03-30T05:50:55",
+      "views": 54,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078400&page=1"
+    },
+    {
+      "post_id": "1078399",
+      "title": "보안문제는 우려될바아님",
+      "author": "ㅇㅇ",
+      "author_ip": "14.45",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-30",
+      "time": "05:47:12",
+      "datetime": "2026-03-30T05:47:12",
+      "views": 38,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078399&page=1"
+    },
+    {
+      "post_id": "1078398",
+      "title": "AI 시대에 독서 필요없다는 말 나오는 이유는 뻔함",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-30",
+      "time": "05:23:19",
+      "datetime": "2026-03-30T05:23:19",
+      "views": 250,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078398&page=1"
+    },
+    {
+      "post_id": "1078397",
+      "title": "해외 인스타에서 ai 말만 햏다하면 염병떠는거 진짜 답없노",
+      "author": "Luthenium",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-30",
+      "time": "05:22:52",
+      "datetime": "2026-03-30T05:22:52",
+      "views": 147,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078397&page=1"
+    },
+    {
+      "post_id": "1078396",
+      "title": "시댄스로 만든 캐릭터 pv",
+      "author": "ㅇㅇ",
+      "author_ip": "220.85",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-30",
+      "time": "05:16:05",
+      "datetime": "2026-03-30T05:16:05",
+      "views": 71,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078396&page=1"
+    },
+    {
+      "post_id": "1078395",
+      "title": "근데 싸펑 기업을 불구대천 원수로 설정하는거 약간 투명함",
+      "author": "난난난",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-30",
+      "time": "05:13:21",
+      "datetime": "2026-03-30T05:13:21",
+      "views": 122,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078395&page=1"
+    },
+    {
+      "post_id": "1078394",
+      "title": "근데 맥스튜디오 인기많은 이유가 뭔가 좀 묘하네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-30",
+      "time": "05:04:25",
+      "datetime": "2026-03-30T05:04:25",
+      "views": 156,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078394&page=1"
+    },
     {
       "post_id": "1078393",
       "title": "GLM, Kimi 이런거 구독할만함?",
@@ -2135,5 +2247,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078231&page=1"
     }
   ],
-  "total_posts": 152
+  "total_posts": 160
 }
