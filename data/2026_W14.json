@@ -4,8 +4,120 @@
   "week": "2026_W14",
   "week_start": "2026-03-30",
   "week_end": "2026-04-05",
-  "last_updated": "2026-03-30T20:27:39+09:00",
+  "last_updated": "2026-03-30T21:27:08+09:00",
   "posts": [
+    {
+      "post_id": "1079722",
+      "title": "역대급 개소리 1위",
+      "author": "ㅇㅇ",
+      "author_ip": "211.118",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-31",
+      "time": "06:24:47",
+      "datetime": "2026-03-31T06:24:47",
+      "views": 18,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1079722&page=1"
+    },
+    {
+      "post_id": "1079721",
+      "title": "오픈라우터에서 Qwen3.6 Plus Preview 쓸때 주의사항",
+      "author": "RDG",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-31",
+      "time": "06:20:00",
+      "datetime": "2026-03-31T06:20:00",
+      "views": 47,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1079721&page=1"
+    },
+    {
+      "post_id": "1079720",
+      "title": "agi 몇백년 걸린다 ㅇㅈㄹ 하는 틀딱들 진짜 답답해 미치겠다",
+      "author": "반포자이게이",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-31",
+      "time": "06:12:00",
+      "datetime": "2026-03-31T06:12:00",
+      "views": 64,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1079720&page=1"
+    },
+    {
+      "post_id": "1079719",
+      "title": "딱 한마디만 더하자 글은 5분뒤 삭제함",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-31",
+      "time": "06:10:26",
+      "datetime": "2026-03-31T06:10:26",
+      "views": 141,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1079719&page=1"
+    },
+    {
+      "post_id": "1079718",
+      "title": "Spud 즉 감자 모델 4월 안에 나오면 좋겠음",
+      "author": "ㅋㅋㅋㅋㅋㅋㅋㅎㅎㅎㅎㅋㅋㅋ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-31",
+      "time": "06:05:31",
+      "datetime": "2026-03-31T06:05:31",
+      "views": 37,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1079718&page=1"
+    },
+    {
+      "post_id": "1079717",
+      "title": "와.. 오픈 클로 업데이트 하니까. 툴콜을 못해..",
+      "author": "ㅇㅇ",
+      "author_ip": "183.107",
+      "author_type": "semi_anonymous",
+      "date": "2026-03-31",
+      "time": "05:46:49",
+      "datetime": "2026-03-31T05:46:49",
+      "views": 87,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1079717&page=1"
+    },
+    {
+      "post_id": "1079716",
+      "title": "큐엔 팀 공중분해된거 아님?",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-31",
+      "time": "05:44:43",
+      "datetime": "2026-03-31T05:44:43",
+      "views": 174,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1079716&page=1"
+    },
+    {
+      "post_id": "1079715",
+      "title": "씨댄스 2.0, UNI) 도트아트",
+      "author": "fewweekslater",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-03-31",
+      "time": "05:36:30",
+      "datetime": "2026-03-31T05:36:30",
+      "views": 202,
+      "likes": 3,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1079715&page=1"
+    },
     {
       "post_id": "1079712",
       "title": "컴퓨터 유즈... 이거 못뜯게 바이너리로 만들어놨네",
@@ -18697,5 +18809,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078231&page=1"
     }
   ],
-  "total_posts": 1335
+  "total_posts": 1343
 }
