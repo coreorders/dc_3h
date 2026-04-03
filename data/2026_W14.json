@@ -4,8 +4,78 @@
   "week": "2026_W14",
   "week_start": "2026-03-30",
   "week_end": "2026-04-05",
-  "last_updated": "2026-04-03T19:27:24+09:00",
+  "last_updated": "2026-04-03T20:04:28+09:00",
   "posts": [
+    {
+      "post_id": "1086920",
+      "title": "리리 보다 더 재밌는 페르소나 프롬프트 없음?",
+      "author": "특이붕이",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "05:02:52",
+      "datetime": "2026-04-04T05:02:52",
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086920&page=1"
+    },
+    {
+      "post_id": "1086919",
+      "title": "젬마 31B 써보고 싶어서 물어봤는데",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "05:01:59",
+      "datetime": "2026-04-04T05:01:59",
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086919&page=1"
+    },
+    {
+      "post_id": "1086917",
+      "title": "현재 LLM 기술 탑이 엔트로픽임?",
+      "author": "Leopard",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "04:49:39",
+      "datetime": "2026-04-04T04:49:39",
+      "views": 89,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086917&page=1"
+    },
+    {
+      "post_id": "1086915",
+      "title": "젬마4 지금 딸숭이들 써보고 극찬하던데",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "04:36:55",
+      "datetime": "2026-04-04T04:36:55",
+      "views": 161,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086915&page=1"
+    },
+    {
+      "post_id": "1086914",
+      "title": "오픈AI 영상 AI쪽은 앞으로도 완전 접을라나",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "04:35:39",
+      "datetime": "2026-04-04T04:35:39",
+      "views": 36,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086914&page=1"
+    },
     {
       "post_id": "1086913",
       "title": "인트라넷 쓰는 기업은 AI 멀로 써?",
@@ -93317,5 +93387,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078231&page=1"
     }
   ],
-  "total_posts": 6665
+  "total_posts": 6670
 }
