@@ -4,8 +4,120 @@
   "week": "2026_W14",
   "week_start": "2026-03-30",
   "week_end": "2026-04-05",
-  "last_updated": "2026-04-03T21:17:45+09:00",
+  "last_updated": "2026-04-03T22:03:38+09:00",
   "posts": [
+    {
+      "post_id": "1086946",
+      "title": "AI시대에 박사학위의 가치",
+      "author": "OpenAI",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "06:56:18",
+      "datetime": "2026-04-04T06:56:18",
+      "views": 70,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086946&page=1"
+    },
+    {
+      "post_id": "1086945",
+      "title": "코덱스랑 GPT랑 다른건가요?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "06:54:05",
+      "datetime": "2026-04-04T06:54:05",
+      "views": 41,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086945&page=1"
+    },
+    {
+      "post_id": "1086944",
+      "title": "Is it true video?",
+      "author": "ㅇㅇ",
+      "author_ip": "103.216",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-04",
+      "time": "06:44:11",
+      "datetime": "2026-04-04T06:44:11",
+      "views": 102,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086944&page=1"
+    },
+    {
+      "post_id": "1086943",
+      "title": "개인적 생각으로  향후 10년 내로 인간의 모든 금융활동은 퇴보할듯",
+      "author": "ㅇㅇ",
+      "author_ip": "175.192",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-04",
+      "time": "06:39:54",
+      "datetime": "2026-04-04T06:39:54",
+      "views": 94,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086943&page=1"
+    },
+    {
+      "post_id": "1086942",
+      "title": "통제가 제대로 안된다면 과도기 금융붕괴는 필연적임",
+      "author": "맥미니",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "06:35:51",
+      "datetime": "2026-04-04T06:35:51",
+      "views": 66,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086942&page=1"
+    },
+    {
+      "post_id": "1086941",
+      "title": "내글 왜 지워졌냐",
+      "author": "ㅇㅇ",
+      "author_ip": "175.192",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-04",
+      "time": "06:35:05",
+      "datetime": "2026-04-04T06:35:05",
+      "views": 96,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086941&page=1"
+    },
+    {
+      "post_id": "1086939",
+      "title": "클로드 하네스 소스 구경하는데 신기한게 있다",
+      "author": "전기기관차",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "06:28:20",
+      "datetime": "2026-04-04T06:28:20",
+      "views": 136,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086939&page=1"
+    },
+    {
+      "post_id": "1086938",
+      "title": "근데 과도기 대비해서 식량모으는건 뭐임?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-04",
+      "time": "06:23:50",
+      "datetime": "2026-04-04T06:23:50",
+      "views": 119,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1086938&page=1"
+    },
     {
       "post_id": "1086937",
       "title": "쓸데없는짓 하지 말라고해서 일부러 더 했음",
@@ -93597,5 +93709,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078231&page=1"
     }
   ],
-  "total_posts": 6685
+  "total_posts": 6693
 }
