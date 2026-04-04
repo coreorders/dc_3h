@@ -4,8 +4,106 @@
   "week": "2026_W14",
   "week_start": "2026-03-30",
   "week_end": "2026-04-05",
-  "last_updated": "2026-04-04T19:20:09+09:00",
+  "last_updated": "2026-04-04T20:00:17+09:00",
   "posts": [
+    {
+      "post_id": "1088584",
+      "title": "나노바나나 프로 vs GPT 2.0",
+      "author": "Manitoba",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "04:56:07",
+      "datetime": "2026-04-05T04:56:07",
+      "views": 39,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088584&page=1"
+    },
+    {
+      "post_id": "1088583",
+      "title": "GPT 1 vs 2 실사화 비교",
+      "author": "ㅇㅇ",
+      "author_ip": "1.236",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "04:56:01",
+      "datetime": "2026-04-05T04:56:01",
+      "views": 31,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088583&page=1"
+    },
+    {
+      "post_id": "1088582",
+      "title": "유튜브 레드때부터 쓰던 프리미엄을 버릴 때가 되었다",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "04:55:11",
+      "datetime": "2026-04-05T04:55:11",
+      "views": 32,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088582&page=1"
+    },
+    {
+      "post_id": "1088581",
+      "title": "완장자나? 어휴 요즘 유동탄압때문에 살수가 없네",
+      "author": "ㅇㅇ",
+      "author_ip": "211.197",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "04:46:13",
+      "datetime": "2026-04-05T04:46:13",
+      "views": 64,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088581&page=1"
+    },
+    {
+      "post_id": "1088580",
+      "title": "요즘 느끼는건 행복하게 사는게 답인것같다",
+      "author": "ㅇㅇ",
+      "author_ip": "59.3",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "04:45:23",
+      "datetime": "2026-04-05T04:45:23",
+      "views": 61,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088580&page=1"
+    },
+    {
+      "post_id": "1088579",
+      "title": "딸기주의) gpt-6 14일 릴리즈?",
+      "author": "일본에간대학원생",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "04:43:10",
+      "datetime": "2026-04-05T04:43:10",
+      "views": 124,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088579&page=1"
+    },
+    {
+      "post_id": "1088578",
+      "title": "5만원으로 AI 구독 뽕뽑는다",
+      "author": "Chano",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "04:32:36",
+      "datetime": "2026-04-05T04:32:36",
+      "views": 136,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088578&page=1"
+    },
     {
       "post_id": "1088577",
       "title": "클로드 코워크 일 시켰던거 리스트 삭제는 안되는건가요?",
@@ -109949,5 +110047,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078231&page=1"
     }
   ],
-  "total_posts": 7853
+  "total_posts": 7860
 }
