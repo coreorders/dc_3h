@@ -4,8 +4,120 @@
   "week": "2026_W14",
   "week_start": "2026-03-30",
   "week_end": "2026-04-05",
-  "last_updated": "2026-04-04T20:00:17+09:00",
+  "last_updated": "2026-04-04T21:04:38+09:00",
   "posts": [
+    {
+      "post_id": "1088593",
+      "title": "코파일럿 쓰는데",
+      "author": "ㅇㅇ",
+      "author_ip": "110.11",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "05:55:34",
+      "datetime": "2026-04-05T05:55:34",
+      "views": 31,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088593&page=1"
+    },
+    {
+      "post_id": "1088591",
+      "title": "ai는 그냥 추론 없으면 지능이라고 못부름",
+      "author": "ㅇㅇ",
+      "author_ip": "119.67",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "05:47:00",
+      "datetime": "2026-04-05T05:47:00",
+      "views": 54,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088591&page=1"
+    },
+    {
+      "post_id": "1088590",
+      "title": "gemma4 31b에 검색기능 물리는 가장 쉬운 법이 뭐임?",
+      "author": "ㅇㅇ",
+      "author_ip": "119.214",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "05:46:17",
+      "datetime": "2026-04-05T05:46:17",
+      "views": 54,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088590&page=1"
+    },
+    {
+      "post_id": "1088589",
+      "title": "GPT 2.0 고질병은 비슷하긴하네;;",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "05:35:13",
+      "datetime": "2026-04-05T05:35:13",
+      "views": 83,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088589&page=1"
+    },
+    {
+      "post_id": "1088588",
+      "title": "나노바나나<-- 못쓰게하는법 없음?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "05:21:50",
+      "datetime": "2026-04-05T05:21:50",
+      "views": 165,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088588&page=1"
+    },
+    {
+      "post_id": "1088587",
+      "title": "이건 2.0인가?",
+      "author": "ㅇㅇ",
+      "author_ip": "175.215",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "05:16:02",
+      "datetime": "2026-04-05T05:16:02",
+      "views": 172,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088587&page=1"
+    },
+    {
+      "post_id": "1088586",
+      "title": "구글링해도 안나와서 질문합니다",
+      "author": "ㅇㅇ",
+      "author_ip": "121.179",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "05:15:16",
+      "datetime": "2026-04-05T05:15:16",
+      "views": 64,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088586&page=1"
+    },
+    {
+      "post_id": "1088585",
+      "title": "아니 이거 뭐임..",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "05:00:43",
+      "datetime": "2026-04-05T05:00:43",
+      "views": 247,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088585&page=1"
+    },
     {
       "post_id": "1088584",
       "title": "나노바나나 프로 vs GPT 2.0",
@@ -110047,5 +110159,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078231&page=1"
     }
   ],
-  "total_posts": 7860
+  "total_posts": 7868
 }
