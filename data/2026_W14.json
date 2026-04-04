@@ -4,8 +4,106 @@
   "week": "2026_W14",
   "week_start": "2026-03-30",
   "week_end": "2026-04-05",
-  "last_updated": "2026-04-04T21:04:38+09:00",
+  "last_updated": "2026-04-04T22:01:55+09:00",
   "posts": [
+    {
+      "post_id": "1088600",
+      "title": "파인다이닝 요리사 << ai가 대체하기 젤 어려워보임",
+      "author": "ㅇㅇ",
+      "author_ip": "175.192",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "07:01:11",
+      "datetime": "2026-04-05T07:01:11",
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088600&page=1"
+    },
+    {
+      "post_id": "1088599",
+      "title": "갤눈팅하다보니까 챗지피티만 쓰게됨",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "06:58:07",
+      "datetime": "2026-04-05T06:58:07",
+      "views": 13,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088599&page=1"
+    },
+    {
+      "post_id": "1088598",
+      "title": "나 이미지2 발바닥으로 구분 가능함..",
+      "author": "COP",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "06:57:43",
+      "datetime": "2026-04-05T06:57:43",
+      "views": 27,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088598&page=1"
+    },
+    {
+      "post_id": "1088597",
+      "title": "와 코드 4개 좋다",
+      "author": "ㅇㅇ",
+      "author_ip": "14.52",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "06:37:53",
+      "datetime": "2026-04-05T06:37:53",
+      "views": 149,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088597&page=1"
+    },
+    {
+      "post_id": "1088596",
+      "title": "미용사가 대체되지 않는 직업일까?",
+      "author": "ㅇㅇ",
+      "author_ip": "61.105",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-05",
+      "time": "06:33:33",
+      "datetime": "2026-04-05T06:33:33",
+      "views": 130,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088596&page=1"
+    },
+    {
+      "post_id": "1088595",
+      "title": "짚 시발 이 미친 균형의 수호자 새끼",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "06:12:39",
+      "datetime": "2026-04-05T06:12:39",
+      "views": 149,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088595&page=1"
+    },
+    {
+      "post_id": "1088594",
+      "title": "특이점이 와야한다",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-05",
+      "time": "06:05:43",
+      "datetime": "2026-04-05T06:05:43",
+      "views": 99,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1088594&page=1"
+    },
     {
       "post_id": "1088593",
       "title": "코파일럿 쓰는데",
@@ -110159,5 +110257,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1078231&page=1"
     }
   ],
-  "total_posts": 7868
+  "total_posts": 7875
 }
