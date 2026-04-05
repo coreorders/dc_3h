@@ -4,8 +4,120 @@
   "week": "2026_W15",
   "week_start": "2026-04-06",
   "week_end": "2026-04-12",
-  "last_updated": "2026-04-05T19:23:34+09:00",
+  "last_updated": "2026-04-05T20:01:38+09:00",
   "posts": [
+    {
+      "post_id": "1089990",
+      "title": "5.5 옴니로 예상 좀 나오네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-06",
+      "time": "05:01:18",
+      "datetime": "2026-04-06T05:01:18",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089990&page=1"
+    },
+    {
+      "post_id": "1089989",
+      "title": "깃헙 코파일럿도 꽤 괜찮네",
+      "author": "GONRIN",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-06",
+      "time": "04:42:01",
+      "datetime": "2026-04-06T04:42:01",
+      "views": 56,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089989&page=1"
+    },
+    {
+      "post_id": "1089988",
+      "title": "야 캐릭터챗 이건 여자만 하나보네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-06",
+      "time": "04:39:08",
+      "datetime": "2026-04-06T04:39:08",
+      "views": 101,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089988&page=1"
+    },
+    {
+      "post_id": "1089987",
+      "title": "아 나도 젬마4로 파인튜닝해서 여자친구나 만들까",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-06",
+      "time": "04:38:38",
+      "datetime": "2026-04-06T04:38:38",
+      "views": 44,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089987&page=1"
+    },
+    {
+      "post_id": "1089986",
+      "title": "구글은 소타 모델 안내냐",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-06",
+      "time": "04:38:17",
+      "datetime": "2026-04-06T04:38:17",
+      "views": 29,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089986&page=1"
+    },
+    {
+      "post_id": "1089985",
+      "title": "알고리즘에ai영상나와서 보는중인데",
+      "author": "isui",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-06",
+      "time": "04:33:50",
+      "datetime": "2026-04-06T04:33:50",
+      "views": 79,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089985&page=1"
+    },
+    {
+      "post_id": "1089984",
+      "title": "Bad News:'LLM이 벽에 부딪혔다'",
+      "author": "ㅇㅇ",
+      "author_ip": "211.225",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-06",
+      "time": "04:32:33",
+      "datetime": "2026-04-06T04:32:33",
+      "views": 159,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089984&page=1"
+    },
+    {
+      "post_id": "1089983",
+      "title": "ai 진짜 마법 같네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-06",
+      "time": "04:27:25",
+      "datetime": "2026-04-06T04:27:25",
+      "views": 109,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089983&page=1"
+    },
     {
       "post_id": "1089982",
       "title": "내 전용 하네스 만드는중",
@@ -2583,5 +2695,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1089788&page=1"
     }
   ],
-  "total_posts": 184
+  "total_posts": 192
 }
