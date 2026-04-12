@@ -4,8 +4,120 @@
   "week": "2026_W16",
   "week_start": "2026-04-13",
   "week_end": "2026-04-19",
-  "last_updated": "2026-04-12T21:18:14+09:00",
+  "last_updated": "2026-04-12T22:03:59+09:00",
   "posts": [
+    {
+      "post_id": "1103376",
+      "title": "퍼플렉에서 뉴스 보는 것도 은근 괜찮네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-13",
+      "time": "07:03:19",
+      "datetime": "2026-04-13T07:03:19",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103376&page=1"
+    },
+    {
+      "post_id": "1103375",
+      "title": "GLM 5.1이 너프먹은 오푸스보다 훨씬낫네..",
+      "author": "맥미니",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-13",
+      "time": "07:02:47",
+      "datetime": "2026-04-13T07:02:47",
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103375&page=1"
+    },
+    {
+      "post_id": "1103374",
+      "title": "코덱스 5.4 쓰는데 날림은 못느꼈음",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-13",
+      "time": "07:00:48",
+      "datetime": "2026-04-13T07:00:48",
+      "views": 22,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103374&page=1"
+    },
+    {
+      "post_id": "1103373",
+      "title": "이게 젬마래",
+      "author": "탈모는범죄",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-13",
+      "time": "06:53:15",
+      "datetime": "2026-04-13T06:53:15",
+      "views": 82,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103373&page=1"
+    },
+    {
+      "post_id": "1103372",
+      "title": "코덱스가그냥 압도함",
+      "author": "딩둘딩",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-13",
+      "time": "06:48:25",
+      "datetime": "2026-04-13T06:48:25",
+      "views": 98,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103372&page=1"
+    },
+    {
+      "post_id": "1103370",
+      "title": "고민이다 어떤 걸 결제해야할까",
+      "author": "ㅇㅇ",
+      "author_ip": "14.34",
+      "author_type": "semi_anonymous",
+      "date": "2026-04-13",
+      "time": "06:28:50",
+      "datetime": "2026-04-13T06:28:50",
+      "views": 149,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103370&page=1"
+    },
+    {
+      "post_id": "1103369",
+      "title": "월마다 업데이트 한다며",
+      "author": "과자에오",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-13",
+      "time": "06:22:51",
+      "datetime": "2026-04-13T06:22:51",
+      "views": 161,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103369&page=1"
+    },
+    {
+      "post_id": "1103368",
+      "title": "코드포스는 이제측정안하나?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-04-13",
+      "time": "06:19:58",
+      "datetime": "2026-04-13T06:19:58",
+      "views": 46,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103368&page=1"
+    },
     {
       "post_id": "1103367",
       "title": "AI에게도 거부 당한 인간은 어떻게 될까?",
@@ -2667,5 +2779,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1103161&page=1"
     }
   ],
-  "total_posts": 190
+  "total_posts": 198
 }
