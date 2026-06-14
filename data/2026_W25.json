@@ -4,8 +4,64 @@
   "week": "2026_W25",
   "week_start": "2026-06-15",
   "week_end": "2026-06-21",
-  "last_updated": "2026-06-14T18:58:58+09:00",
+  "last_updated": "2026-06-14T20:52:29+09:00",
   "posts": [
+    {
+      "post_id": "1256341",
+      "title": "아모데이는 심은대로 거두는거같음",
+      "author": "잼지클록",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-06-15",
+      "time": "05:42:00",
+      "datetime": "2026-06-15T05:42:00",
+      "views": 82,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1256341&page=1"
+    },
+    {
+      "post_id": "1256340",
+      "title": "Rio 모델은 스캠이다",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-06-15",
+      "time": "05:39:14",
+      "datetime": "2026-06-15T05:39:14",
+      "views": 124,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1256340&page=1"
+    },
+    {
+      "post_id": "1256336",
+      "title": "앤트로픽, 백악관 분쟁 수습중",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-06-15",
+      "time": "05:19:13",
+      "datetime": "2026-06-15T05:19:13",
+      "views": 249,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1256336&page=1"
+    },
+    {
+      "post_id": "1256328",
+      "title": "패치내역) 서치모드: 딥리서치 검색을 더 깊게",
+      "author": "fewweekslater",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-06-15",
+      "time": "04:50:33",
+      "datetime": "2026-06-15T04:50:33",
+      "views": 282,
+      "likes": 8,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1256328&page=1"
+    },
     {
       "post_id": "1256304",
       "title": "중국은 저러면 진짜 멋진 신세계랑 1984 융합한 나라가 되겠네",
@@ -3409,5 +3465,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1256048&page=2"
     }
   ],
-  "total_posts": 243
+  "total_posts": 247
 }
