@@ -4,7 +4,7 @@
   "week": "2026_W26",
   "week_start": "2026-06-22",
   "week_end": "2026-06-28",
-  "last_updated": "2026-06-28T15:06:24+09:00",
+  "last_updated": "2026-07-05T08:32:28+09:00",
   "posts": [
     {
       "post_id": "1281574",
@@ -37231,6 +37231,20 @@
       "likes": 0,
       "comments": 0,
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1278420&page=1"
+    },
+    {
+      "post_id": "1278398",
+      "title": "(오픈AI) GPT 5.6 재귀개선 능력 벤치마크",
+      "author": "초존도초",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-06-27",
+      "time": "04:29:36",
+      "datetime": "2026-06-27T04:29:36",
+      "views": 1440,
+      "likes": 20,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1278398&page=2"
     },
     {
       "post_id": "1278395",
@@ -162547,5 +162561,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1268399&page=1"
     }
   ],
-  "total_posts": 11610
+  "total_posts": 11611
 }
