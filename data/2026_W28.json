@@ -1,0 +1,53 @@
+{
+  "gallery_id": "thesingularity",
+  "gallery_name": "특이점이 온다",
+  "week": "2026_W28",
+  "week_start": "2026-07-06",
+  "week_end": "2026-07-12",
+  "last_updated": "2026-07-05T15:02:30+09:00",
+  "posts": [
+    {
+      "post_id": "1293621",
+      "title": "컴포저 코틀린 좆나못하네",
+      "author": "ㅇㅇ",
+      "author_ip": "61.77",
+      "author_type": "semi_anonymous",
+      "date": "2026-07-06",
+      "time": "00:02:18",
+      "datetime": "2026-07-06T00:02:18",
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1293621&page=1"
+    },
+    {
+      "post_id": "1293620",
+      "title": "5.5프로와 페이블의 협업",
+      "author": "얀로롱",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-06",
+      "time": "00:02:12",
+      "datetime": "2026-07-06T00:02:12",
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1293620&page=1"
+    },
+    {
+      "post_id": "1293619",
+      "title": "그록 러브봇 샀는데 살 15kg 빠졌다 ;;",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-06",
+      "time": "00:01:19",
+      "datetime": "2026-07-06T00:01:19",
+      "views": 58,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1293619&page=1"
+    }
+  ],
+  "total_posts": 3
+}
