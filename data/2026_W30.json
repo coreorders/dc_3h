@@ -4,8 +4,120 @@
   "week": "2026_W30",
   "week_start": "2026-07-20",
   "week_end": "2026-07-26",
-  "last_updated": "2026-07-23T21:44:30+09:00",
+  "last_updated": "2026-07-23T22:38:50+09:00",
   "posts": [
+    {
+      "post_id": "1338649",
+      "title": "그록 4.5, 웹/앱 채팅 모델에 적용 개시",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-24",
+      "time": "07:35:27",
+      "datetime": "2026-07-24T07:35:27",
+      "views": 36,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1338649&page=1"
+    },
+    {
+      "post_id": "1338648",
+      "title": "속보) 필즈상 수상자 오픈AI 합류",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-24",
+      "time": "07:35:07",
+      "datetime": "2026-07-24T07:35:07",
+      "views": 73,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1338648&page=1"
+    },
+    {
+      "post_id": "1338647",
+      "title": "보이스 모델들을 진짜 써?",
+      "author": "ㅇㅇ",
+      "author_ip": "211.217",
+      "author_type": "semi_anonymous",
+      "date": "2026-07-24",
+      "time": "07:25:33",
+      "datetime": "2026-07-24T07:25:33",
+      "views": 125,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1338647&page=1"
+    },
+    {
+      "post_id": "1338646",
+      "title": "오푸스 5 관련해서 라우팅이 일어나고 있는 듯하다는 의견이 있네.",
+      "author": "무사오츠무기",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-24",
+      "time": "07:12:05",
+      "datetime": "2026-07-24T07:12:05",
+      "views": 217,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1338646&page=1"
+    },
+    {
+      "post_id": "1338645",
+      "title": "딥시크 정출 언제해",
+      "author": "윈터홀드임상강사",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-24",
+      "time": "07:11:04",
+      "datetime": "2026-07-24T07:11:04",
+      "views": 106,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1338645&page=1"
+    },
+    {
+      "post_id": "1338644",
+      "title": "인텔ceo: 지금은 ai초창기라서 성능이 최고 중요",
+      "author": "오피셜",
+      "author_ip": "116.44",
+      "author_type": "ip",
+      "date": "2026-07-24",
+      "time": "07:10:17",
+      "datetime": "2026-07-24T07:10:17",
+      "views": 150,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1338644&page=1"
+    },
+    {
+      "post_id": "1338643",
+      "title": "(앤트로픽) 음성 모드 업그레이드",
+      "author": "초존도초",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-24",
+      "time": "07:08:37",
+      "datetime": "2026-07-24T07:08:37",
+      "views": 206,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1338643&page=1"
+    },
+    {
+      "post_id": "1338642",
+      "title": "말로 시작해 작업까지 맡기는 ChatGPT(Codex) Voice",
+      "author": "초존도초",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-24",
+      "time": "07:05:17",
+      "datetime": "2026-07-24T07:05:17",
+      "views": 206,
+      "likes": 6,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1338642&page=1"
+    },
     {
       "post_id": "1338641",
       "title": "구글 앤트로픽 지분 가치 182조원 ㅋㅋ",
@@ -101577,5 +101689,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1330370&page=2"
     }
   ],
-  "total_posts": 7255
+  "total_posts": 7263
 }
