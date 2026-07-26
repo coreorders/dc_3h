@@ -4,8 +4,36 @@
   "week": "2026_W31",
   "week_start": "2026-07-27",
   "week_end": "2026-08-02",
-  "last_updated": "2026-07-26T21:40:36+09:00",
+  "last_updated": "2026-07-26T22:42:25+09:00",
   "posts": [
+    {
+      "post_id": "1342486",
+      "title": "머스크 요즘 타임린인 얼추 맞춘다",
+      "author": "ㅇㅇ",
+      "author_ip": "222.108",
+      "author_type": "semi_anonymous",
+      "date": "2026-07-27",
+      "time": "07:21:13",
+      "datetime": "2026-07-27T07:21:13",
+      "views": 113,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1342486&page=1"
+    },
+    {
+      "post_id": "1342485",
+      "title": "AI가 의학쪽으로 발달하면 참 좋겠다",
+      "author": "ㅇㅇ",
+      "author_ip": "61.84",
+      "author_type": "semi_anonymous",
+      "date": "2026-07-27",
+      "time": "07:09:46",
+      "datetime": "2026-07-27T07:09:46",
+      "views": 77,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1342485&page=1"
+    },
     {
       "post_id": "1342484",
       "title": "역노화 지금 몇살까지 안정권임?",
@@ -1743,5 +1771,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1342346&page=1"
     }
   ],
-  "total_posts": 124
+  "total_posts": 126
 }
