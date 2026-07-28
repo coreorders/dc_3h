@@ -4,8 +4,120 @@
   "week": "2026_W31",
   "week_start": "2026-07-27",
   "week_end": "2026-08-02",
-  "last_updated": "2026-07-28T21:49:24+09:00",
+  "last_updated": "2026-07-28T22:44:37+09:00",
   "posts": [
+    {
+      "post_id": "1344616",
+      "title": "왜 풀가속을 하지 않는것이지 알트만",
+      "author": "ㅇㅇ",
+      "author_ip": "175.125",
+      "author_type": "semi_anonymous",
+      "date": "2026-07-29",
+      "time": "07:44:35",
+      "datetime": "2026-07-29T07:44:35",
+      "views": 0,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1344616&page=1"
+    },
+    {
+      "post_id": "1344615",
+      "title": "리눅스 커널 버그픽스에 gpt는 도움이 안되고",
+      "author": "미나키노",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-29",
+      "time": "07:44:22",
+      "datetime": "2026-07-29T07:44:22",
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1344615&page=1"
+    },
+    {
+      "post_id": "1344614",
+      "title": "실리콘 신을 경배하라",
+      "author": "균형의수호자",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-29",
+      "time": "07:43:02",
+      "datetime": "2026-07-29T07:43:02",
+      "views": 22,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1344614&page=1"
+    },
+    {
+      "post_id": "1344613",
+      "title": "OpenAI) 발전 속도 조절이 필요하다.",
+      "author": "에나코",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-29",
+      "time": "07:33:32",
+      "datetime": "2026-07-29T07:33:32",
+      "views": 180,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1344613&page=1"
+    },
+    {
+      "post_id": "1344612",
+      "title": "검열 잘 안먹는 코딩은 누가 잘함?",
+      "author": "ㅇㅇ",
+      "author_ip": "219.254",
+      "author_type": "semi_anonymous",
+      "date": "2026-07-29",
+      "time": "07:28:16",
+      "datetime": "2026-07-29T07:28:16",
+      "views": 80,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1344612&page=1"
+    },
+    {
+      "post_id": "1344611",
+      "title": "AI 빚투 경쟁에 빅테크간 자금 돌려막기…시장 임계점 왔나",
+      "author": "000",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-07-29",
+      "time": "07:12:04",
+      "datetime": "2026-07-29T07:12:04",
+      "views": 254,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1344611&page=1"
+    },
+    {
+      "post_id": "1344610",
+      "title": "AI연애앱 이거 왜 쓰는거냐? 젬황 Gem기능이 있는데?",
+      "author": "ㅇㅇ",
+      "author_ip": "14.4",
+      "author_type": "semi_anonymous",
+      "date": "2026-07-29",
+      "time": "06:56:56",
+      "datetime": "2026-07-29T06:56:56",
+      "views": 211,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1344610&page=1"
+    },
+    {
+      "post_id": "1344609",
+      "title": "amd 첫 완전오픈소스 로컬 ai 공개",
+      "author": "ㅇㅇ",
+      "author_ip": "180.230",
+      "author_type": "semi_anonymous",
+      "date": "2026-07-29",
+      "time": "06:50:51",
+      "datetime": "2026-07-29T06:50:51",
+      "views": 185,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1344609&page=1"
+    },
     {
       "post_id": "1344608",
       "title": "여름이 겨울보다 나은점말해줘봐",
@@ -28525,5 +28637,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1342346&page=1"
     }
   ],
-  "total_posts": 2037
+  "total_posts": 2045
 }
