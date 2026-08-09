@@ -4,8 +4,92 @@
   "week": "2026_W33",
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
-  "last_updated": "2026-08-09T18:14:40+09:00",
+  "last_updated": "2026-08-09T19:21:05+09:00",
   "posts": [
+    {
+      "post_id": "1359158",
+      "title": "짚2 자글자글한거",
+      "author": "한설",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-10",
+      "time": "04:16:43",
+      "datetime": "2026-08-10T04:16:43",
+      "views": 36,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359158&page=1"
+    },
+    {
+      "post_id": "1359157",
+      "title": "젬짱 그림 봐조",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-10",
+      "time": "04:06:44",
+      "datetime": "2026-08-10T04:06:44",
+      "views": 73,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359157&page=1"
+    },
+    {
+      "post_id": "1359156",
+      "title": "qwen3.8도 조선족이겠지",
+      "author": "ㅇㅇ",
+      "author_ip": "124.216",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-10",
+      "time": "04:06:34",
+      "datetime": "2026-08-10T04:06:34",
+      "views": 41,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359156&page=1"
+    },
+    {
+      "post_id": "1359155",
+      "title": "그래서 agi오긴 옴?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-10",
+      "time": "03:55:22",
+      "datetime": "2026-08-10T03:55:22",
+      "views": 102,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359155&page=1"
+    },
+    {
+      "post_id": "1359154",
+      "title": "지금 젬 3.1pro도 솔직히 코딩빼면 만족인데 3.5는 어떨까 ㄹㅇ",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-10",
+      "time": "03:34:47",
+      "datetime": "2026-08-10T03:34:47",
+      "views": 220,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359154&page=1"
+    },
+    {
+      "post_id": "1359153",
+      "title": "골프장<<이거 좀 없애면 환경에 아주 좋자나",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-10",
+      "time": "03:26:40",
+      "datetime": "2026-08-10T03:26:40",
+      "views": 147,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359153&page=1"
+    },
     {
       "post_id": "1359150",
       "title": "지금 지피티 웹 무료뜨는거 루나지?",
@@ -1015,5 +1099,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359074&page=1"
     }
   ],
-  "total_posts": 72
+  "total_posts": 78
 }
