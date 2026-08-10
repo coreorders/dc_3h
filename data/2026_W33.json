@@ -4,8 +4,64 @@
   "week": "2026_W33",
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
-  "last_updated": "2026-08-10T19:42:58+09:00",
+  "last_updated": "2026-08-10T20:23:55+09:00",
   "posts": [
+    {
+      "post_id": "1360047",
+      "title": "Cs컨퍼 첫 리젝..",
+      "author": "ㅇㅇ",
+      "author_ip": "220.75",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-11",
+      "time": "05:17:22",
+      "datetime": "2026-08-11T05:17:22",
+      "views": 25,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1360047&page=1"
+    },
+    {
+      "post_id": "1360046",
+      "title": "웹이랑 앱 구독료 차이가 시발 왜캐 많이 남",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-11",
+      "time": "05:14:16",
+      "datetime": "2026-08-11T05:14:16",
+      "views": 71,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1360046&page=1"
+    },
+    {
+      "post_id": "1360045",
+      "title": "아일어났는데 왜 티보 한도초기화 안해줘ㅡ",
+      "author": "ㅇㅇ",
+      "author_ip": "112.154",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-11",
+      "time": "05:04:30",
+      "datetime": "2026-08-11T05:04:30",
+      "views": 50,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1360045&page=1"
+    },
+    {
+      "post_id": "1360044",
+      "title": "노동해방 없어도 되니까 완몰가라도 다오",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-11",
+      "time": "04:51:38",
+      "datetime": "2026-08-11T04:51:38",
+      "views": 66,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1360044&page=1"
+    },
     {
       "post_id": "1360043",
       "title": "방금 짚앱 업뎃했는데 이거 맘에 드네",
@@ -12803,5 +12859,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359074&page=1"
     }
   ],
-  "total_posts": 914
+  "total_posts": 918
 }
