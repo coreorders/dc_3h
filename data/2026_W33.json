@@ -4,8 +4,92 @@
   "week": "2026_W33",
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
-  "last_updated": "2026-08-11T19:47:28+09:00",
+  "last_updated": "2026-08-11T20:27:13+09:00",
   "posts": [
+    {
+      "post_id": "1361096",
+      "title": "meshy 7 써봤는데 아직은 걍 6이 나은듯",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-12",
+      "time": "05:21:45",
+      "datetime": "2026-08-12T05:21:45",
+      "views": 19,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1361096&page=1"
+    },
+    {
+      "post_id": "1361095",
+      "title": "우린 한국전쟁 이래로 76년간 말도안되는 변화를 겪어봤으니",
+      "author": "M3",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-12",
+      "time": "05:20:36",
+      "datetime": "2026-08-12T05:20:36",
+      "views": 35,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1361095&page=1"
+    },
+    {
+      "post_id": "1361094",
+      "title": "Agi정의란게 어느 정도 기조는 유지해야하지않나",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-12",
+      "time": "05:18:18",
+      "datetime": "2026-08-12T05:18:18",
+      "views": 27,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1361094&page=1"
+    },
+    {
+      "post_id": "1361092",
+      "title": "qwen 3.8 27b이 젬마4 31b 이길수있을까 둘다 dense던데",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-12",
+      "time": "05:06:19",
+      "datetime": "2026-08-12T05:06:19",
+      "views": 47,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1361092&page=1"
+    },
+    {
+      "post_id": "1361091",
+      "title": "근데 현재 ai는 환각 심하잖아",
+      "author": "ㅇㅇ",
+      "author_ip": "14.50",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-12",
+      "time": "04:59:26",
+      "datetime": "2026-08-12T04:59:26",
+      "views": 116,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1361091&page=1"
+    },
+    {
+      "post_id": "1361090",
+      "title": "\"지능이 떨어지거나 교육수준이 낮을수록 AI를 믿지 못하였다\"",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-12",
+      "time": "04:55:23",
+      "datetime": "2026-08-12T04:55:23",
+      "views": 187,
+      "likes": 5,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1361090&page=1"
+    },
     {
       "post_id": "1361089",
       "title": "SOL 사용한도 너무 빨리 닳는데",
@@ -26523,5 +26607,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359074&page=1"
     }
   ],
-  "total_posts": 1894
+  "total_posts": 1900
 }
