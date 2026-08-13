@@ -4,8 +4,106 @@
   "week": "2026_W33",
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
-  "last_updated": "2026-08-13T20:21:50+09:00",
+  "last_updated": "2026-08-13T21:29:10+09:00",
   "posts": [
+    {
+      "post_id": "1363709",
+      "title": "3.7 롤플레잉은 딱인데?",
+      "author": "ㅇㅇ",
+      "author_ip": "175.196",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-14",
+      "time": "06:23:05",
+      "datetime": "2026-08-14T06:23:05",
+      "views": 47,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363709&page=1"
+    },
+    {
+      "post_id": "1363708",
+      "title": "제미나이 flash만 계속 나오는게",
+      "author": "....",
+      "author_ip": "14.58",
+      "author_type": "ip",
+      "date": "2026-08-14",
+      "time": "06:15:44",
+      "datetime": "2026-08-14T06:15:44",
+      "views": 76,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363708&page=1"
+    },
+    {
+      "post_id": "1363707",
+      "title": "GPT 5.6 sol 보다 싸고 성능은 동급?!",
+      "author": "ㅇㅇ",
+      "author_ip": "110.35",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-14",
+      "time": "05:59:57",
+      "datetime": "2026-08-14T05:59:57",
+      "views": 191,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363707&page=1"
+    },
+    {
+      "post_id": "1363706",
+      "title": "머스트가 존나 멋있는점 복수를 안한다는거임",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-14",
+      "time": "05:54:02",
+      "datetime": "2026-08-14T05:54:02",
+      "views": 176,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363706&page=1"
+    },
+    {
+      "post_id": "1363705",
+      "title": "제발 agi 언제오는것임",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-14",
+      "time": "05:51:41",
+      "datetime": "2026-08-14T05:51:41",
+      "views": 132,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363705&page=1"
+    },
+    {
+      "post_id": "1363703",
+      "title": "잼민이 한국어능력만 떼와서 다른놈이랑 합치고싶네",
+      "author": "ㅇㅇ",
+      "author_ip": "1.252",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-14",
+      "time": "05:30:17",
+      "datetime": "2026-08-14T05:30:17",
+      "views": 144,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363703&page=1"
+    },
+    {
+      "post_id": "1363702",
+      "title": "ChatGPT 앱) 컴퓨터 기록 개인화 기능 출시",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-14",
+      "time": "05:27:44",
+      "datetime": "2026-08-14T05:27:44",
+      "views": 396,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363702&page=1"
+    },
     {
       "post_id": "1363700",
       "title": "티보의 깜짝 선물",
@@ -60221,5 +60319,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359074&page=1"
     }
   ],
-  "total_posts": 4301
+  "total_posts": 4308
 }
