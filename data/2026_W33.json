@@ -4,8 +4,92 @@
   "week": "2026_W33",
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
-  "last_updated": "2026-08-13T19:45:09+09:00",
+  "last_updated": "2026-08-13T20:21:50+09:00",
   "posts": [
+    {
+      "post_id": "1363700",
+      "title": "티보의 깜짝 선물",
+      "author": "트리거핑거",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-14",
+      "time": "05:14:55",
+      "datetime": "2026-08-14T05:14:55",
+      "views": 65,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363700&page=1"
+    },
+    {
+      "post_id": "1363699",
+      "title": "요즘 미래 기술 타임라인 만드는 취미가 생김",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-14",
+      "time": "05:02:51",
+      "datetime": "2026-08-14T05:02:51",
+      "views": 64,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363699&page=1"
+    },
+    {
+      "post_id": "1363698",
+      "title": "특이점 << 이거 약간 대유쾌마운틴이랑 비슷한거네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-14",
+      "time": "05:02:50",
+      "datetime": "2026-08-14T05:02:50",
+      "views": 45,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363698&page=1"
+    },
+    {
+      "post_id": "1363697",
+      "title": "3.6이 워낙 병신이어서 3.7도 병신이네",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-14",
+      "time": "04:59:35",
+      "datetime": "2026-08-14T04:59:35",
+      "views": 107,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363697&page=1"
+    },
+    {
+      "post_id": "1363696",
+      "title": "이거 혹시 워크랑 채팅이랑 사용량 서로 다른걸로 아는데",
+      "author": "ㅇㅇ",
+      "author_ip": "110.35",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-14",
+      "time": "04:50:19",
+      "datetime": "2026-08-14T04:50:19",
+      "views": 78,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363696&page=1"
+    },
+    {
+      "post_id": "1363695",
+      "title": "흐흐 휴머노이드 여친도 거의 왔구나",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-14",
+      "time": "04:50:07",
+      "datetime": "2026-08-14T04:50:07",
+      "views": 166,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1363695&page=1"
+    },
     {
       "post_id": "1363694",
       "title": "3.7플 가격 반값이면 안티그래비티 사용량도 2배임?",
@@ -60137,5 +60221,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359074&page=1"
     }
   ],
-  "total_posts": 4295
+  "total_posts": 4301
 }
