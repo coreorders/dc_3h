@@ -4,8 +4,92 @@
   "week": "2026_W33",
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
-  "last_updated": "2026-08-14T21:03:09+09:00",
+  "last_updated": "2026-08-14T21:59:36+09:00",
   "posts": [
+    {
+      "post_id": "1364845",
+      "title": "27b 초간단후기",
+      "author": "ㅇㅇ",
+      "author_ip": "49.167",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-15",
+      "time": "06:54:59",
+      "datetime": "2026-08-15T06:54:59",
+      "views": 42,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1364845&page=1"
+    },
+    {
+      "post_id": "1364844",
+      "title": "알트만: 한때 agi가 가능하다 믿었던 사람은 50명 정도였다",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-15",
+      "time": "06:49:54",
+      "datetime": "2026-08-15T06:49:54",
+      "views": 102,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1364844&page=1"
+    },
+    {
+      "post_id": "1364843",
+      "title": "특이점이 온 내 꿈 해몽좀...",
+      "author": "노래연습배틀용",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-15",
+      "time": "06:45:16",
+      "datetime": "2026-08-15T06:45:16",
+      "views": 60,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1364843&page=1"
+    },
+    {
+      "post_id": "1364841",
+      "title": "결국기업들은 sota모델을 쓰는구나",
+      "author": "2033특이점",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-15",
+      "time": "06:43:13",
+      "datetime": "2026-08-15T06:43:13",
+      "views": 113,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1364841&page=1"
+    },
+    {
+      "post_id": "1364840",
+      "title": "괜찮은 120b 모델 안 나오나...",
+      "author": "ㅇㅇ",
+      "author_ip": "122.202",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-15",
+      "time": "06:36:14",
+      "datetime": "2026-08-15T06:36:14",
+      "views": 47,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1364840&page=1"
+    },
+    {
+      "post_id": "1364839",
+      "title": "요즘같은 세상에 돈이 없는건 진짜 저주인듯",
+      "author": "큼쪽",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-15",
+      "time": "06:15:41",
+      "datetime": "2026-08-15T06:15:41",
+      "views": 235,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1364839&page=1"
+    },
     {
       "post_id": "1364837",
       "title": "한국기업들도 앤트로픽에 지분 많이넣네",
@@ -75467,5 +75551,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359074&page=1"
     }
   ],
-  "total_posts": 5390
+  "total_posts": 5396
 }
