@@ -4,8 +4,50 @@
   "week": "2026_W33",
   "week_start": "2026-08-10",
   "week_end": "2026-08-16",
-  "last_updated": "2026-08-15T21:00:02+09:00",
+  "last_updated": "2026-08-15T21:57:51+09:00",
   "posts": [
+    {
+      "post_id": "1365663",
+      "title": "지피티 이 미친새기 ㅋㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-16",
+      "time": "06:44:55",
+      "datetime": "2026-08-16T06:44:55",
+      "views": 104,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1365663&page=1"
+    },
+    {
+      "post_id": "1365662",
+      "title": "그록봇의 장점",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-16",
+      "time": "06:27:00",
+      "datetime": "2026-08-16T06:27:00",
+      "views": 124,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1365662&page=1"
+    },
+    {
+      "post_id": "1365661",
+      "title": "현존 오픈모델 최강이면 5.6sol 미디엄 땀?",
+      "author": "ㅇㅇ",
+      "author_ip": "14.4",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-16",
+      "time": "06:19:15",
+      "datetime": "2026-08-16T06:19:15",
+      "views": 144,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1365661&page=1"
+    },
     {
       "post_id": "1365660",
       "title": "만약 외계인이 있다면 만난다 vs 안만난다",
@@ -86331,5 +86373,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1359074&page=1"
     }
   ],
-  "total_posts": 6166
+  "total_posts": 6169
 }
