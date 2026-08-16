@@ -4,8 +4,106 @@
   "week": "2026_W34",
   "week_start": "2026-08-17",
   "week_end": "2026-08-23",
-  "last_updated": "2026-08-16T21:57:22+09:00",
+  "last_updated": "2026-08-16T22:58:33+09:00",
   "posts": [
+    {
+      "post_id": "1366513",
+      "title": "무료는 잼삼플?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "07:52:31",
+      "datetime": "2026-08-17T07:52:31",
+      "views": 27,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366513&page=1"
+    },
+    {
+      "post_id": "1366512",
+      "title": "근데 뭔가 기술이 어디까지 펼쳐질진 보고싶긴함",
+      "author": "자나나",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "07:32:22",
+      "datetime": "2026-08-17T07:32:22",
+      "views": 122,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366512&page=1"
+    },
+    {
+      "post_id": "1366511",
+      "title": "pc개초보 gpt로 리니지 클라이언트 만지는중",
+      "author": "통붕이",
+      "author_ip": "59.5",
+      "author_type": "ip",
+      "date": "2026-08-17",
+      "time": "07:28:00",
+      "datetime": "2026-08-17T07:28:00",
+      "views": 134,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366511&page=1"
+    },
+    {
+      "post_id": "1366510",
+      "title": "님들은 오픈클로 이거 어케 사용중임?",
+      "author": "자나나",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "07:27:15",
+      "datetime": "2026-08-17T07:27:15",
+      "views": 115,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366510&page=1"
+    },
+    {
+      "post_id": "1366509",
+      "title": "너무 슬프다.....",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "07:17:11",
+      "datetime": "2026-08-17T07:17:11",
+      "views": 113,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366509&page=1"
+    },
+    {
+      "post_id": "1366508",
+      "title": "이 세상이 완몰가인지 확인하는 방법",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "07:15:27",
+      "datetime": "2026-08-17T07:15:27",
+      "views": 170,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366508&page=1"
+    },
+    {
+      "post_id": "1366506",
+      "title": "특갤 호감고닉 LIST_v1.4",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "06:59:20",
+      "datetime": "2026-08-17T06:59:20",
+      "views": 175,
+      "likes": 2,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366506&page=1"
+    },
     {
       "post_id": "1366505",
       "title": "Qwen 3.8 2B 4B 9B 나왔나보네",
@@ -1897,5 +1995,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366361&page=1"
     }
   ],
-  "total_posts": 135
+  "total_posts": 142
 }
