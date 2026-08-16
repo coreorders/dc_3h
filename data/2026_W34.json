@@ -4,8 +4,106 @@
   "week": "2026_W34",
   "week_start": "2026-08-17",
   "week_end": "2026-08-23",
-  "last_updated": "2026-08-16T19:56:37+09:00",
+  "last_updated": "2026-08-16T20:59:07+09:00",
   "posts": [
+    {
+      "post_id": "1366497",
+      "title": "오늘도 해버렸습니다 casual intimacy",
+      "author": "후르츠칵테일",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "05:57:11",
+      "datetime": "2026-08-17T05:57:11",
+      "views": 11,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366497&page=1"
+    },
+    {
+      "post_id": "1366496",
+      "title": "요즘 짤쟁이들 보면 다 AI학습금지 적어놓던데",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "05:55:22",
+      "datetime": "2026-08-17T05:55:22",
+      "views": 32,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366496&page=1"
+    },
+    {
+      "post_id": "1366494",
+      "title": "의외로 3.1 flash lite가",
+      "author": "에브리",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "05:31:15",
+      "datetime": "2026-08-17T05:31:15",
+      "views": 90,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366494&page=1"
+    },
+    {
+      "post_id": "1366493",
+      "title": "알트만이 직업 줄지 않는다고 한거",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "05:30:30",
+      "datetime": "2026-08-17T05:30:30",
+      "views": 116,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366493&page=1"
+    },
+    {
+      "post_id": "1366492",
+      "title": "티보) 코덱스에서 1M 토큰 컨텍스트 창을 활성화하는 방법",
+      "author": "M3",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "05:26:52",
+      "datetime": "2026-08-17T05:26:52",
+      "views": 141,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366492&page=1"
+    },
+    {
+      "post_id": "1366491",
+      "title": "agi 오면 우리 삶이 달라짐?",
+      "author": "ㅇㅇ",
+      "author_ip": "211.46",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-17",
+      "time": "05:11:51",
+      "datetime": "2026-08-17T05:11:51",
+      "views": 105,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366491&page=1"
+    },
+    {
+      "post_id": "1366490",
+      "title": "머스크 커서 사느라 openai 에 5조 줬네 ㅋㅋㅋㅋ",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-17",
+      "time": "05:02:48",
+      "datetime": "2026-08-17T05:02:48",
+      "views": 233,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366490&page=1"
+    },
     {
       "post_id": "1366489",
       "title": "근데 ai안경으로 컨닝을 어떻게 한다는거?",
@@ -1687,5 +1785,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366361&page=1"
     }
   ],
-  "total_posts": 120
+  "total_posts": 127
 }
