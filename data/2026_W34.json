@@ -4,8 +4,92 @@
   "week": "2026_W34",
   "week_start": "2026-08-17",
   "week_end": "2026-08-23",
-  "last_updated": "2026-08-21T19:58:16+09:00",
+  "last_updated": "2026-08-21T21:01:58+09:00",
   "posts": [
+    {
+      "post_id": "1372246",
+      "title": "특이점 안ㅃ온다갤?얘네는 뭐임",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-22",
+      "time": "05:59:08",
+      "datetime": "2026-08-22T05:59:08",
+      "views": 30,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1372246&page=1"
+    },
+    {
+      "post_id": "1372245",
+      "title": "클로드 제미니 딥식 그록 그외 어중이떠중이들 다 나가떨어지고",
+      "author": "ㅇㅇ",
+      "author_ip": "211.47",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-22",
+      "time": "05:49:12",
+      "datetime": "2026-08-22T05:49:12",
+      "views": 37,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1372245&page=1"
+    },
+    {
+      "post_id": "1372244",
+      "title": "그록",
+      "author": "poundcake",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-22",
+      "time": "05:22:10",
+      "datetime": "2026-08-22T05:22:10",
+      "views": 106,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1372244&page=1"
+    },
+    {
+      "post_id": "1372243",
+      "title": "잡지 프롬 요즘 나만 안됨?",
+      "author": "ㅇㅇ",
+      "author_ip": "61.77",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-22",
+      "time": "05:19:15",
+      "datetime": "2026-08-22T05:19:15",
+      "views": 56,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1372243&page=1"
+    },
+    {
+      "post_id": "1372242",
+      "title": "90년대에 다음이랑 네이버 생긴거",
+      "author": "ㅇㅇ",
+      "author_ip": "116.43",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-22",
+      "time": "05:17:12",
+      "datetime": "2026-08-22T05:17:12",
+      "views": 69,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1372242&page=1"
+    },
+    {
+      "post_id": "1372241",
+      "title": "문제 많은 코덱스 앱 버리고",
+      "author": "균형의수호자",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-22",
+      "time": "05:11:38",
+      "datetime": "2026-08-22T05:11:38",
+      "views": 97,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1372241&page=1"
+    },
     {
       "post_id": "1372240",
       "title": "지멋대로 로그아웃되는 개막장 버그가 창궐",
@@ -76811,5 +76895,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1366361&page=1"
     }
   ],
-  "total_posts": 5486
+  "total_posts": 5492
 }
