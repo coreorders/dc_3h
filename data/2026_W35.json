@@ -4,8 +4,120 @@
   "week": "2026_W35",
   "week_start": "2026-08-24",
   "week_end": "2026-08-30",
-  "last_updated": "2026-08-23T19:04:27+09:00",
+  "last_updated": "2026-08-23T19:57:23+09:00",
   "posts": [
+    {
+      "post_id": "1373800",
+      "title": "ai 아예 첨 결제해보는데 지피티 플러스 질문 좀",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "04:52:06",
+      "datetime": "2026-08-24T04:52:06",
+      "views": 34,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373800&page=1"
+    },
+    {
+      "post_id": "1373799",
+      "title": "제미나이 플래시 A/B 테스트 뜸",
+      "author": "우빈유",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "04:47:07",
+      "datetime": "2026-08-24T04:47:07",
+      "views": 58,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373799&page=1"
+    },
+    {
+      "post_id": "1373798",
+      "title": "데센 빠방하게 가지고 있는 기업들이 내부적으로 데센 컴퓨팅 영끌해봤듯",
+      "author": "ㅇㅇ",
+      "author_ip": "119.207",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-24",
+      "time": "04:36:48",
+      "datetime": "2026-08-24T04:36:48",
+      "views": 62,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373798&page=1"
+    },
+    {
+      "post_id": "1373797",
+      "title": "요새 그냥 지피한테 귀엽다고 하는데",
+      "author": "ㅇㅇ",
+      "author_ip": "183.105",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-24",
+      "time": "04:31:14",
+      "datetime": "2026-08-24T04:31:14",
+      "views": 66,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373797&page=1"
+    },
+    {
+      "post_id": "1373795",
+      "title": "헤라클레스 북쪽왕관자리 장성과 제미나이 그림",
+      "author": "oo",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "04:28:05",
+      "datetime": "2026-08-24T04:28:05",
+      "views": 52,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373795&page=1"
+    },
+    {
+      "post_id": "1373794",
+      "title": "제미나이가 코딩은 후달리는데",
+      "author": "우빈유",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "04:10:42",
+      "datetime": "2026-08-24T04:10:42",
+      "views": 148,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373794&page=1"
+    },
+    {
+      "post_id": "1373793",
+      "title": "뜌땨뜌우따이뚜땨땨우땨야!",
+      "author": "회색",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "04:08:16",
+      "datetime": "2026-08-24T04:08:16",
+      "views": 95,
+      "likes": 3,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373793&page=1"
+    },
+    {
+      "post_id": "1373792",
+      "title": "ssi 모델 이번달에 안나옴?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "04:05:55",
+      "datetime": "2026-08-24T04:05:55",
+      "views": 38,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373792&page=1"
+    },
     {
       "post_id": "1373791",
       "title": "루게릭 관련 글쓴이임",
@@ -1183,5 +1295,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373698&page=1"
     }
   ],
-  "total_posts": 84
+  "total_posts": 92
 }
