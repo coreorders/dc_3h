@@ -4,8 +4,92 @@
   "week": "2026_W35",
   "week_start": "2026-08-24",
   "week_end": "2026-08-30",
-  "last_updated": "2026-08-23T19:57:23+09:00",
+  "last_updated": "2026-08-23T20:59:44+09:00",
   "posts": [
+    {
+      "post_id": "1373806",
+      "title": "재밌네 이거",
+      "author": "우빈유",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "05:57:33",
+      "datetime": "2026-08-24T05:57:33",
+      "views": 17,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373806&page=1"
+    },
+    {
+      "post_id": "1373805",
+      "title": "뇌의 뉴런은 과학자들이 생각했던 것보다 훨씬 더 강력하다.",
+      "author": "oo",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "05:48:32",
+      "datetime": "2026-08-24T05:48:32",
+      "views": 64,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373805&page=1"
+    },
+    {
+      "post_id": "1373804",
+      "title": "뇌 <- 왤캐 144fps 도 잡아냄?",
+      "author": "oo",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "05:39:28",
+      "datetime": "2026-08-24T05:39:28",
+      "views": 90,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373804&page=1"
+    },
+    {
+      "post_id": "1373803",
+      "title": "진짜 AGI 같을려면",
+      "author": "우빈유",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "05:26:04",
+      "datetime": "2026-08-24T05:26:04",
+      "views": 86,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373803&page=1"
+    },
+    {
+      "post_id": "1373802",
+      "title": "블라인드 테스트를 도와주세요",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-24",
+      "time": "05:04:31",
+      "datetime": "2026-08-24T05:04:31",
+      "views": 117,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373802&page=1"
+    },
+    {
+      "post_id": "1373801",
+      "title": "gpt이새끼",
+      "author": "ㅇㅇ",
+      "author_ip": "220.74",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-24",
+      "time": "05:02:25",
+      "datetime": "2026-08-24T05:02:25",
+      "views": 132,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373801&page=1"
+    },
     {
       "post_id": "1373800",
       "title": "ai 아예 첨 결제해보는데 지피티 플러스 질문 좀",
@@ -1295,5 +1379,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373698&page=1"
     }
   ],
-  "total_posts": 92
+  "total_posts": 98
 }
