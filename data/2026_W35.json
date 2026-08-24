@@ -4,8 +4,120 @@
   "week": "2026_W35",
   "week_start": "2026-08-24",
   "week_end": "2026-08-30",
-  "last_updated": "2026-08-24T17:16:25+09:00",
+  "last_updated": "2026-08-24T18:05:04+09:00",
   "posts": [
+    {
+      "post_id": "1374802",
+      "title": "클로드는 20달러짜리라도 구독하는게 맞는 것 같다.",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-25",
+      "time": "03:04:30",
+      "datetime": "2026-08-25T03:04:30",
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1374802&page=1"
+    },
+    {
+      "post_id": "1374801",
+      "title": "skt 독파모 유튜브 댓글 뭐임?",
+      "author": "AI축협",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-25",
+      "time": "03:01:52",
+      "datetime": "2026-08-25T03:01:52",
+      "views": 30,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1374801&page=1"
+    },
+    {
+      "post_id": "1374800",
+      "title": "코텍스 무료플랜계정 10일 전에 30일 한도초과걸렷는데",
+      "author": "ㅇㅇ",
+      "author_ip": "59.17",
+      "author_type": "semi_anonymous",
+      "date": "2026-08-25",
+      "time": "02:57:56",
+      "datetime": "2026-08-25T02:57:56",
+      "views": 34,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1374800&page=1"
+    },
+    {
+      "post_id": "1374798",
+      "title": "머스크, 구글 당신들의 힘을 보여줘",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-25",
+      "time": "02:42:00",
+      "datetime": "2026-08-25T02:42:00",
+      "views": 82,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1374798&page=1"
+    },
+    {
+      "post_id": "1374797",
+      "title": "머스크: 궤도 데이터센터 내년 4분기 시작",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-25",
+      "time": "02:38:33",
+      "datetime": "2026-08-25T02:38:33",
+      "views": 131,
+      "likes": 3,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1374797&page=1"
+    },
+    {
+      "post_id": "1374796",
+      "title": "아이폰 폴드 최신 루머기반 디자인 ㄷㄷ",
+      "author": "메론맛콜라가먹고싶어",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-25",
+      "time": "02:34:47",
+      "datetime": "2026-08-25T02:34:47",
+      "views": 208,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1374796&page=1"
+    },
+    {
+      "post_id": "1374793",
+      "title": "밑에 유동글 보고 생각난 최근 gpt 문제들",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-25",
+      "time": "02:25:18",
+      "datetime": "2026-08-25T02:25:18",
+      "views": 186,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1374793&page=1"
+    },
+    {
+      "post_id": "1374792",
+      "title": "짚 프로는 워크랑 chat gpt랑 차이가 좀 심한거같음",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-25",
+      "time": "02:21:42",
+      "datetime": "2026-08-25T02:21:42",
+      "views": 88,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1374792&page=1"
+    },
     {
       "post_id": "1374791",
       "title": "하입 안 해주니까 좀 우울하네",
@@ -14315,5 +14427,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373698&page=1"
     }
   ],
-  "total_posts": 1022
+  "total_posts": 1030
 }
