@@ -4,8 +4,106 @@
   "week": "2026_W35",
   "week_start": "2026-08-24",
   "week_end": "2026-08-30",
-  "last_updated": "2026-08-25T19:18:10+09:00",
+  "last_updated": "2026-08-25T20:02:28+09:00",
   "posts": [
+    {
+      "post_id": "1375636",
+      "title": "맥미니 M6 NPU 2개 박아버렸네",
+      "author": "우빈유",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-26",
+      "time": "05:00:45",
+      "datetime": "2026-08-26T05:00:45",
+      "views": 16,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375636&page=1"
+    },
+    {
+      "post_id": "1375635",
+      "title": "찌라시 = 무조건 개추",
+      "author": "데이터센터속천재들의나라",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-26",
+      "time": "04:50:10",
+      "datetime": "2026-08-26T04:50:10",
+      "views": 58,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375635&page=1"
+    },
+    {
+      "post_id": "1375634",
+      "title": "레오피셜 oai 역대 최대 규모 프리트레인 완료?",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-26",
+      "time": "04:43:02",
+      "datetime": "2026-08-26T04:43:02",
+      "views": 113,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375634&page=1"
+    },
+    {
+      "post_id": "1375633",
+      "title": "그거 개발하고있지않나 데센냉각관련",
+      "author": "oo",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-26",
+      "time": "04:31:01",
+      "datetime": "2026-08-26T04:31:01",
+      "views": 73,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375633&page=1"
+    },
+    {
+      "post_id": "1375632",
+      "title": "레오주의) 오픈ai, 후속모델 사전학습 완료. - 코드네임 ‘벨’",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-26",
+      "time": "04:29:16",
+      "datetime": "2026-08-26T04:29:16",
+      "views": 191,
+      "likes": 3,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375632&page=1"
+    },
+    {
+      "post_id": "1375631",
+      "title": "데이터센터가 소음이 발생하는 이유",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-26",
+      "time": "04:25:55",
+      "datetime": "2026-08-26T04:25:55",
+      "views": 100,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375631&page=1"
+    },
+    {
+      "post_id": "1375629",
+      "title": "사실이라면 큰",
+      "author": "ㅇㅇ",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-08-26",
+      "time": "04:18:48",
+      "datetime": "2026-08-26T04:18:48",
+      "views": 195,
+      "likes": 1,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1375629&page=1"
+    },
     {
       "post_id": "1375628",
       "title": "애초에 데센 지을때 방음 시설을 안 넣나?",
@@ -24941,5 +25039,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1373698&page=1"
     }
   ],
-  "total_posts": 1781
+  "total_posts": 1788
 }
