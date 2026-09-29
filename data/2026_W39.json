@@ -4,7 +4,7 @@
   "week": "2026_W39",
   "week_start": "2026-09-21",
   "week_end": "2026-09-27",
-  "last_updated": "2026-09-27T18:39:54+09:00",
+  "last_updated": "2026-09-29T07:32:21+09:00",
   "posts": [
     {
       "post_id": "1445194",
@@ -59211,6 +59211,20 @@
       "likes": 1,
       "comments": 0,
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1440377&page=10"
+    },
+    {
+      "post_id": "1440376",
+      "title": "특갤봇 오탐 소명",
+      "author": "203847년걸리겠죠",
+      "author_ip": "",
+      "author_type": "member",
+      "date": "2026-09-25",
+      "time": "12:20:04",
+      "datetime": "2026-09-25T12:20:04",
+      "views": 1936,
+      "likes": 3,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1440376&page=12"
     },
     {
       "post_id": "1440375",
@@ -164101,5 +164115,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1432134&page=2"
     }
   ],
-  "total_posts": 11721
+  "total_posts": 11722
 }
