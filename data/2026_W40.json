@@ -4,8 +4,22 @@
   "week": "2026_W40",
   "week_start": "2026-09-28",
   "week_end": "2026-10-04",
-  "last_updated": "2026-10-04T15:00:02+09:00",
+  "last_updated": "2026-10-04T18:48:47+09:00",
   "posts": [
+    {
+      "post_id": "1461207",
+      "title": "AI 컴퓨팅파워 다 몰아서 난제나 풀었으면",
+      "author": "ㅇㅇ",
+      "author_ip": "61.74",
+      "author_type": "semi_anonymous",
+      "date": "2026-10-04",
+      "time": "23:59:59",
+      "datetime": "2026-10-04T23:59:59",
+      "views": 54,
+      "likes": 0,
+      "comments": 0,
+      "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1461207&page=4"
+    },
     {
       "post_id": "1461206",
       "title": "기억의 궁전이라고 아니? 이거 재밌음",
@@ -204799,5 +204813,5 @@
       "url": "https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1445198&page=3"
     }
   ],
-  "total_posts": 14628
+  "total_posts": 14629
 }
